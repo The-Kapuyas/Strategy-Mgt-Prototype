@@ -1,0 +1,2328 @@
+{
+  "metadata": {
+    "company_name": "Novacraft",
+    "company_stage": "Series B",
+    "funding_raised": "$25M",
+    "runway_months": 18,
+    "headcount": 62,
+    "target_headcount": 85,
+    "planning_period": "FY2026",
+    "current_date": "2026-02-01",
+    "last_updated": "2026-02-01",
+    "currency": "USD"
+  },
+  "strategic_priorities": [
+    {
+      "rank": 1,
+      "title": "Product Excellence",
+      "description": "Launch AI automation platform and establish market leadership"
+    },
+    {
+      "rank": 2,
+      "title": "Scale Revenue",
+      "description": "Grow ARR from $4.5M to $10M through enterprise expansion"
+    },
+    {
+      "rank": 3,
+      "title": "Operational Foundation",
+      "description": "Build the team and platform to support 3x growth"
+    }
+  ],
+  "objectives": [
+    {
+      "id": "O1",
+      "theme": "Revenue",
+      "objective": "Scale ARR from $4.5M to $10M through enterprise deals",
+      "owner": "VP Sales",
+      "time_horizon": "Q4 2026",
+      "priority": "high",
+      "status": "on_track",
+      "progress": 0.18,
+      "key_results": [
+        "KR1.1",
+        "KR1.2"
+      ]
+    },
+    {
+      "id": "O2",
+      "theme": "Product",
+      "objective": "Launch AI features and establish market leadership",
+      "owner": "VP Product",
+      "time_horizon": "Q4 2026",
+      "priority": "high",
+      "status": "at_risk",
+      "progress": 0.25,
+      "key_results": [
+        "KR2.1",
+        "KR2.2",
+        "KR2.3",
+        "KR2.4",
+        "KR2.5",
+        "KR2.6"
+      ]
+    },
+    {
+      "id": "O3",
+      "theme": "Operations",
+      "objective": "Build scalable team and platform to support 3x growth",
+      "owner": "VP Engineering",
+      "time_horizon": "Q4 2026",
+      "priority": "high",
+      "status": "on_track",
+      "progress": 0.28,
+      "key_results": [
+        "KR3.1",
+        "KR3.2",
+        "KR3.3",
+        "KR3.4"
+      ]
+    }
+  ],
+  "key_results": [
+    {
+      "id": "KR1.1",
+      "objective_id": "O1",
+      "description": "Close 20 new enterprise deals with ACV > $100K",
+      "metric": "Deals Closed",
+      "metric_type": "count",
+      "baseline": 0,
+      "target": 20,
+      "current": 4,
+      "progress": 0.20,
+      "owner": "VP Sales",
+      "status": "on_track",
+      "target_date": "2026-12-31"
+    },
+    {
+      "id": "KR1.2",
+      "objective_id": "O1",
+      "description": "Reduce sales cycle from 82 to 55 days",
+      "metric": "Sales Cycle Days",
+      "metric_type": "days",
+      "baseline": 82,
+      "target": 55,
+      "current": 72,
+      "progress": 0.37,
+      "owner": "VP Sales",
+      "status": "at_risk",
+      "target_date": "2026-09-30"
+    },
+    {
+      "id": "KR2.1",
+      "objective_id": "O2",
+      "description": "Ship AI workflow builder to GA with 99.5% uptime",
+      "metric": "GA Release",
+      "metric_type": "boolean",
+      "baseline": 0,
+      "target": 1,
+      "current": 0,
+      "progress": 0.45,
+      "owner": "VP Product",
+      "status": "at_risk",
+      "target_date": "2026-06-30"
+    },
+    {
+      "id": "KR2.2",
+      "objective_id": "O2",
+      "description": "Onboard 100 beta customers with >85% satisfaction",
+      "metric": "Beta Customers",
+      "metric_type": "count",
+      "baseline": 0,
+      "target": 100,
+      "current": 12,
+      "progress": 0.12,
+      "owner": "VP Product",
+      "status": "in_progress",
+      "target_date": "2026-09-30"
+    },
+    {
+      "id": "KR2.3",
+      "objective_id": "O2",
+      "description": "Achieve 50+ enterprise NPS score",
+      "metric": "NPS Score",
+      "metric_type": "score",
+      "baseline": 32,
+      "target": 50,
+      "current": 36,
+      "progress": 0.22,
+      "owner": "VP Product",
+      "status": "on_track",
+      "target_date": "2026-12-31"
+    },
+    {
+      "id": "KR2.4",
+      "objective_id": "O2",
+      "description": "Reduce average API response time to under 200ms",
+      "metric": "API Latency (ms)",
+      "metric_type": "count",
+      "baseline": 450,
+      "target": 200,
+      "current": 380,
+      "progress": 0.28,
+      "owner": "VP Engineering",
+      "status": "at_risk",
+      "target_date": "2026-08-31"
+    },
+    {
+      "id": "KR2.5",
+      "objective_id": "O2",
+      "description": "Pass SOC 2 Type II certification for enterprise readiness",
+      "metric": "Certification",
+      "metric_type": "boolean",
+      "baseline": 0,
+      "target": 1,
+      "current": 0,
+      "progress": 0.35,
+      "owner": "VP Engineering",
+      "status": "in_progress",
+      "target_date": "2026-07-31"
+    },
+    {
+      "id": "KR2.6",
+      "objective_id": "O2",
+      "description": "Launch public API with 50+ integration partners",
+      "metric": "Integration Partners",
+      "metric_type": "count",
+      "baseline": 0,
+      "target": 50,
+      "current": 5,
+      "progress": 0.10,
+      "owner": "VP Product",
+      "status": "at_risk",
+      "target_date": "2026-10-31"
+    },
+    {
+      "id": "KR3.1",
+      "objective_id": "O3",
+      "description": "Grow engineering team from 18 to 32 engineers",
+      "metric": "Engineering Headcount",
+      "metric_type": "count",
+      "baseline": 18,
+      "target": 32,
+      "current": 20,
+      "progress": 0.14,
+      "owner": "VP People",
+      "status": "at_risk",
+      "target_date": "2026-09-30"
+    },
+    {
+      "id": "KR3.2",
+      "objective_id": "O3",
+      "description": "Achieve 99.95% platform uptime",
+      "metric": "Uptime",
+      "metric_type": "percentage",
+      "baseline": 99.72,
+      "target": 99.95,
+      "current": 99.88,
+      "progress": 0.70,
+      "owner": "VP Engineering",
+      "status": "on_track",
+      "target_date": "2026-05-15"
+    },
+    {
+      "id": "KR3.3",
+      "objective_id": "O3",
+      "description": "Reduce critical tech debt items from 42 to 15",
+      "metric": "Tech Debt Items",
+      "metric_type": "count",
+      "baseline": 42,
+      "target": 15,
+      "current": 38,
+      "progress": 0.15,
+      "owner": "VP Engineering",
+      "status": "at_risk",
+      "target_date": "2026-08-31"
+    },
+    {
+      "id": "KR3.4",
+      "objective_id": "O3",
+      "description": "Improve employee engagement score from 72 to 85",
+      "metric": "Engagement Score",
+      "metric_type": "score",
+      "baseline": 72,
+      "target": 85,
+      "current": 74,
+      "progress": 0.15,
+      "owner": "VP People",
+      "status": "on_track"
+    }
+  ],
+  "projects": [
+    {
+      "id": "P1",
+      "name": "Enterprise Sales Playbook",
+      "drives_krs": [
+        "KR1.1"
+      ],
+      "department": "Sales",
+      "lead": "Rachel Thompson",
+      "team_members": [
+        "Gregory Reed",
+        "Megan Phillips"
+      ],
+      "start_date": "2025-10-01",
+      "end_date": "2026-03-31",
+      "status": "in_progress",
+      "progress": 0.75,
+      "budget": 50000,
+      "priority": "high",
+      "description": "Develop enterprise sales methodology and rep training program"
+    },
+    {
+      "id": "P2",
+      "name": "Sales Demo Portal",
+      "drives_krs": [
+        "KR1.1",
+        "KR1.2"
+      ],
+      "department": "Sales",
+      "lead": "Sean Murphy",
+      "team_members": [
+        "Gregory Reed"
+      ],
+      "start_date": "2026-01-15",
+      "end_date": "2026-08-31",
+      "status": "in_progress",
+      "progress": 0.12,
+      "budget": 75000,
+      "priority": "high",
+      "description": "Build interactive React dashboard with data visualizations and modern UI components for enterprise demo environment"
+    },
+    {
+      "id": "P3",
+      "name": "Sales Cycle Optimization",
+      "drives_krs": [
+        "KR1.2"
+      ],
+      "department": "Sales",
+      "lead": "Gregory Reed",
+      "team_members": [
+        "Sean Murphy"
+      ],
+      "start_date": "2026-03-01",
+      "end_date": "2026-06-15",
+      "status": "not_started",
+      "progress": 0.0,
+      "budget": 35000,
+      "priority": "high",
+      "description": "Streamline POC and procurement process to cut cycle time by 30%"
+    },
+    {
+      "id": "P4",
+      "name": "Enterprise Lead Gen Engine",
+      "drives_krs": [
+        "KR1.1"
+      ],
+      "department": "Marketing",
+      "lead": "Eric Watson",
+      "team_members": [
+        "Timothy Russell",
+        "Heather Stewart"
+      ],
+      "start_date": "2025-10-01",
+      "end_date": "2026-12-31",
+      "status": "in_progress",
+      "progress": 0.28,
+      "budget": 280000,
+      "priority": "high",
+      "description": "Scale paid and organic lead generation campaigns for enterprise segment"
+    },
+    {
+      "id": "P5",
+      "name": "AI Workflow Engine Core",
+      "drives_krs": [
+        "KR2.1"
+      ],
+      "department": "Engineering",
+      "lead": "Samantha Lee",
+      "team_members": [
+        "Carlos Mendez",
+        "Ryan Nguyen",
+        "Amanda Clark"
+      ],
+      "start_date": "2025-08-01",
+      "end_date": "2026-07-31",
+      "status": "at_risk",
+      "progress": 0.45,
+      "budget": 450000,
+      "priority": "high",
+      "description": "Build core AI automation engine with ML-powered workflow automation and intelligent orchestration",
+      "risks": "ML inference latency at 800ms — need sub-200ms for real-time workflows. Root cause: data platform migration (P7) schema changes taking longer than planned."
+    },
+    {
+      "id": "P6",
+      "name": "Workflow Builder UI",
+      "drives_krs": [
+        "KR2.1",
+        "KR2.3"
+      ],
+      "department": "Engineering",
+      "lead": "Tyler Jackson",
+      "team_members": [
+        "Lisa Chen",
+        "Amanda Clark"
+      ],
+      "start_date": "2025-11-01",
+      "end_date": "2026-08-15",
+      "status": "in_progress",
+      "progress": 0.35,
+      "budget": 280000,
+      "priority": "high",
+      "description": "Build React-based visual workflow builder with drag-and-drop interface, real-time preview, and responsive dashboard components"
+    },
+    {
+      "id": "P7",
+      "name": "Data Platform Modernization",
+      "drives_krs": [
+        "KR2.1",
+        "KR2.4"
+      ],
+      "department": "Engineering",
+      "lead": "Andrew Chen",
+      "team_members": [
+        "Carlos Mendez",
+        "Olivia Martinez"
+      ],
+      "start_date": "2025-10-01",
+      "end_date": "2026-09-15",
+      "status": "in_progress",
+      "progress": 0.50,
+      "budget": 220000,
+      "priority": "high",
+      "description": "Modernize database and API infrastructure to support AI features at scale with microservice architecture"
+    },
+    {
+      "id": "P8",
+      "name": "AI Beta Program",
+      "drives_krs": [
+        "KR2.2"
+      ],
+      "department": "Product",
+      "lead": "David Park",
+      "team_members": [
+        "Ashley Robinson"
+      ],
+      "start_date": "2026-03-01",
+      "end_date": "2026-10-31",
+      "status": "not_started",
+      "progress": 0.0,
+      "budget": 65000,
+      "priority": "high",
+      "description": "Manage beta customer recruitment, onboarding, and feedback collection for AI workflow features with go-to-market launch activities",
+      "risks": "Blocked on P5 (AI Workflow Engine) delivering a stable build. Cannot launch beta without core AI features working reliably."
+    },
+    {
+      "id": "P9",
+      "name": "AI Documentation Hub",
+      "drives_krs": [
+        "KR2.2",
+        "KR2.6"
+      ],
+      "department": "Product",
+      "lead": "Michelle Wang",
+      "team_members": [
+        "Jeffrey Sanders"
+      ],
+      "start_date": "2026-04-15",
+      "end_date": "2026-11-30",
+      "status": "not_started",
+      "progress": 0.0,
+      "budget": 55000,
+      "priority": "medium",
+      "description": "Create comprehensive documentation portal with interactive guides, API reference, tutorials and sample code for developers"
+    },
+    {
+      "id": "P10",
+      "name": "Enterprise NPS Program",
+      "drives_krs": [
+        "KR2.3"
+      ],
+      "department": "Product",
+      "lead": "Victoria Hernandez",
+      "team_members": [
+        "Nathan Scott",
+        "Ashley Robinson"
+      ],
+      "start_date": "2025-11-01",
+      "end_date": "2026-06-30",
+      "status": "in_progress",
+      "progress": 0.40,
+      "budget": 45000,
+      "priority": "high",
+      "description": "Systematic program to collect customer feedback and drive product improvements"
+    },
+    {
+      "id": "P11",
+      "name": "API Performance Optimization",
+      "drives_krs": [
+        "KR2.4"
+      ],
+      "department": "Engineering",
+      "lead": "Ryan Nguyen",
+      "team_members": [
+        "Andrew Chen",
+        "Carlos Mendez"
+      ],
+      "start_date": "2026-02-01",
+      "end_date": "2026-07-31",
+      "status": "in_progress",
+      "progress": 0.15,
+      "budget": 120000,
+      "priority": "high",
+      "description": "Optimize API endpoints, implement caching layer, and reduce database query latency"
+    },
+    {
+      "id": "P12",
+      "name": "SOC 2 Compliance Initiative",
+      "drives_krs": [
+        "KR2.5"
+      ],
+      "department": "Engineering",
+      "lead": "Brandon Wright",
+      "team_members": [
+        "Daniel Kim",
+        "Natalie Brown"
+      ],
+      "start_date": "2025-10-01",
+      "end_date": "2026-07-15",
+      "status": "in_progress",
+      "progress": 0.40,
+      "budget": 180000,
+      "priority": "high",
+      "description": "Implement security controls, audit logging, and compliance documentation for SOC 2 Type II certification",
+      "risks": "External auditor (Big4) has a scheduling conflict — June audit window no longer available. Next window is August."
+    },
+    {
+      "id": "P13",
+      "name": "Security Hardening",
+      "drives_krs": [
+        "KR2.5"
+      ],
+      "department": "Engineering",
+      "lead": "Daniel Kim",
+      "team_members": [
+        "Brandon Wright",
+        "Jessica Taylor"
+      ],
+      "start_date": "2026-01-15",
+      "end_date": "2026-06-30",
+      "status": "in_progress",
+      "progress": 0.25,
+      "budget": 95000,
+      "priority": "high",
+      "description": "Penetration testing, vulnerability remediation, and security infrastructure improvements"
+    },
+    {
+      "id": "P14",
+      "name": "Public API & SDK Development",
+      "drives_krs": [
+        "KR2.6"
+      ],
+      "department": "Engineering",
+      "lead": "Carlos Mendez",
+      "team_members": [
+        "Ryan Nguyen",
+        "Amanda Clark"
+      ],
+      "start_date": "2026-03-01",
+      "end_date": "2026-11-30",
+      "status": "not_started",
+      "progress": 0.0,
+      "budget": 200000,
+      "priority": "high",
+      "description": "Design and build public REST API with JavaScript and Python SDKs for third-party integrations"
+    },
+    {
+      "id": "P15",
+      "name": "Integration Marketplace",
+      "drives_krs": [
+        "KR2.6"
+      ],
+      "department": "Product",
+      "lead": "David Park",
+      "team_members": [
+        "Victoria Hernandez"
+      ],
+      "start_date": "2026-05-01",
+      "end_date": "2026-12-31",
+      "status": "not_started",
+      "progress": 0.0,
+      "budget": 85000,
+      "priority": "medium",
+      "description": "Build integration marketplace with partner directory, app submission flow, and showcase UI dashboard"
+    },
+    {
+      "id": "P16",
+      "name": "Customer Health Dashboard",
+      "drives_krs": [
+        "KR2.3"
+      ],
+      "department": "Customer Success",
+      "lead": "Christina Rivera",
+      "team_members": [
+        "Stephanie Moore",
+        "Jacob Anderson"
+      ],
+      "start_date": "2026-02-01",
+      "end_date": "2026-08-31",
+      "status": "in_progress",
+      "progress": 0.08,
+      "budget": 70000,
+      "priority": "high",
+      "description": "Build predictive health scoring dashboard with interactive React UI components and real-time data visualizations to identify at-risk accounts"
+    },
+    {
+      "id": "P17",
+      "name": "Enterprise Onboarding Redesign",
+      "drives_krs": [
+        "KR2.2",
+        "KR2.3"
+      ],
+      "department": "Customer Success",
+      "lead": "Jonathan Bailey",
+      "team_members": [
+        "Patrick Gray",
+        "Vanessa James"
+      ],
+      "start_date": "2025-10-15",
+      "end_date": "2026-04-30",
+      "status": "in_progress",
+      "progress": 0.68,
+      "budget": 50000,
+      "priority": "high",
+      "description": "Redesign onboarding flow to reduce time-to-value and improve early customer experience",
+      "risks": "",
+      "actual": "Pilot live with 3 enterprise customers. Time-to-value reduced from 6 weeks to 3.5 weeks. All pilot customers gave positive feedback."
+    },
+    {
+      "id": "P18",
+      "name": "Engineering Hiring Sprint",
+      "drives_krs": [
+        "KR3.1"
+      ],
+      "department": "People",
+      "lead": "Hannah Barnes",
+      "team_members": [
+        "Priya Sharma"
+      ],
+      "start_date": "2025-09-01",
+      "end_date": "2026-09-30",
+      "status": "at_risk",
+      "progress": 0.14,
+      "budget": 120000,
+      "priority": "high",
+      "description": "Hire 14 engineers including 5 ML specialists and 4 senior frontend engineers",
+      "risks": "ML specialist market extremely competitive. Lost 2 final-round candidates to Google/Meta comp packages. Current salary band ($180K-$220K) is below market."
+    },
+    {
+      "id": "P19",
+      "name": "GTM Team Expansion",
+      "drives_krs": [
+        "KR3.1"
+      ],
+      "department": "People",
+      "lead": "Hannah Barnes",
+      "team_members": [
+        "Rachel Thompson",
+        "James O'Brien"
+      ],
+      "start_date": "2026-01-15",
+      "end_date": "2026-08-31",
+      "status": "in_progress",
+      "progress": 0.10,
+      "budget": 60000,
+      "priority": "high",
+      "description": "Hire 8 sales, marketing, and CS team members for go-to-market expansion"
+    },
+    {
+      "id": "P20",
+      "name": "Platform Reliability Initiative",
+      "drives_krs": [
+        "KR3.2"
+      ],
+      "department": "Engineering",
+      "lead": "Brandon Wright",
+      "team_members": [
+        "Daniel Kim",
+        "Natalie Brown"
+      ],
+      "start_date": "2025-09-01",
+      "end_date": "2026-05-31",
+      "status": "in_progress",
+      "progress": 0.65,
+      "budget": 175000,
+      "priority": "high",
+      "description": "Improve monitoring, alerting, and incident response with cloud infrastructure and CI/CD pipeline improvements"
+    },
+    {
+      "id": "P21",
+      "name": "Multi-Region Infrastructure",
+      "drives_krs": [
+        "KR3.2"
+      ],
+      "department": "Engineering",
+      "lead": "Daniel Kim",
+      "team_members": [
+        "Jessica Taylor",
+        "Brandon Wright"
+      ],
+      "start_date": "2026-04-01",
+      "end_date": "2026-11-30",
+      "status": "planning",
+      "progress": 0.0,
+      "budget": 200000,
+      "priority": "medium",
+      "description": "Migrate to multi-region AWS architecture with Kubernetes deployment for improved reliability and disaster recovery"
+    },
+    {
+      "id": "P22",
+      "name": "Tech Debt Reduction Sprint",
+      "drives_krs": [
+        "KR3.3"
+      ],
+      "department": "Engineering",
+      "lead": "Samantha Lee",
+      "team_members": [
+        "Natalie Brown",
+        "Jessica Taylor",
+        "Ryan Nguyen"
+      ],
+      "start_date": "2025-12-01",
+      "end_date": "2026-09-15",
+      "status": "at_risk",
+      "progress": 0.12,
+      "budget": 160000,
+      "priority": "medium",
+      "description": "Address 27 critical tech debt items including legacy code migration and architecture improvements"
+    },
+    {
+      "id": "P23",
+      "name": "Test Automation Framework",
+      "drives_krs": [
+        "KR3.3"
+      ],
+      "department": "Engineering",
+      "lead": "Natalie Brown",
+      "team_members": [
+        "Jessica Taylor"
+      ],
+      "start_date": "2026-01-15",
+      "end_date": "2026-10-31",
+      "status": "in_progress",
+      "progress": 0.08,
+      "budget": 90000,
+      "priority": "medium",
+      "description": "Build comprehensive test automation suite with 80% code coverage target for regression testing"
+    },
+    {
+      "id": "P24",
+      "name": "Employee Engagement Program",
+      "drives_krs": [
+        "KR3.4"
+      ],
+      "department": "People",
+      "lead": "Priya Sharma",
+      "team_members": [
+        "Hannah Barnes"
+      ],
+      "start_date": "2026-01-01",
+      "end_date": "2026-12-31",
+      "status": "in_progress",
+      "progress": 0.15,
+      "budget": 45000,
+      "priority": "medium",
+      "description": "Launch quarterly engagement surveys, manager training, and culture initiatives"
+    },
+    {
+      "id": "P25",
+      "name": "AI Model Training Pipeline",
+      "drives_krs": [
+        "KR2.1"
+      ],
+      "department": "Engineering",
+      "lead": "Carlos Mendez",
+      "team_members": [
+        "Olivia Martinez"
+      ],
+      "start_date": "2026-01-01",
+      "end_date": "2026-06-30",
+      "status": "in_progress",
+      "progress": 0.30,
+      "budget": 180000,
+      "priority": "high",
+      "description": "Build ML training pipeline with automated model versioning, A/B testing framework, and production deployment"
+    },
+    {
+      "id": "P26",
+      "name": "Mobile Companion App",
+      "drives_krs": [
+        "KR2.3"
+      ],
+      "department": "Engineering",
+      "lead": "Amanda Clark",
+      "team_members": [],
+      "start_date": "2026-06-01",
+      "end_date": "2026-12-31",
+      "status": "planning",
+      "progress": 0.0,
+      "budget": 150000,
+      "priority": "medium",
+      "description": "Build React Native mobile app for workflow monitoring and approvals with push notifications"
+    }
+  ],
+  "resources": [
+    {
+      "id": "R1",
+      "name": "Samantha Lee",
+      "role": "Senior Backend Engineer",
+      "department": "Engineering",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "API Development",
+        "Backend",
+        "Microservices",
+        "System Design"
+      ],
+      "availability": 1.0,
+      "utilization": 0.9,
+      "assigned_projects": [
+        "P5",
+        "P22"
+      ],
+      "cost_center": "Engineering",
+      "reports_to": "VP Engineering"
+    },
+    {
+      "id": "R2",
+      "name": "Carlos Mendez",
+      "role": "ML Engineer",
+      "department": "Engineering",
+      "skills": [
+        "Machine Learning",
+        "Python",
+        "Data Science",
+        "Backend",
+        "TensorFlow",
+        "MLOps"
+      ],
+      "availability": 1.0,
+      "utilization": 1.2,
+      "assigned_projects": [
+        "P5",
+        "P7",
+        "P11",
+        "P14",
+        "P25"
+      ],
+      "cost_center": "Engineering",
+      "reports_to": "VP Engineering"
+    },
+    {
+      "id": "R3",
+      "name": "Ryan Nguyen",
+      "role": "Backend Engineer",
+      "department": "Engineering",
+      "skills": [
+        "Node.js",
+        "API Development",
+        "Database",
+        "Backend",
+        "PostgreSQL",
+        "Redis"
+      ],
+      "availability": 1.0,
+      "utilization": 0.9,
+      "assigned_projects": [
+        "P5",
+        "P11",
+        "P14",
+        "P22"
+      ],
+      "cost_center": "Engineering",
+      "reports_to": "VP Engineering"
+    },
+    {
+      "id": "R4",
+      "name": "Amanda Clark",
+      "role": "Full Stack Engineer",
+      "department": "Engineering",
+      "skills": [
+        "React",
+        "Node.js",
+        "TypeScript",
+        "Full Stack",
+        "React Native"
+      ],
+      "availability": 1.0,
+      "utilization": 0.8,
+      "assigned_projects": [
+        "P5",
+        "P6",
+        "P14",
+        "P26"
+      ],
+      "cost_center": "Engineering",
+      "reports_to": "VP Engineering"
+    },
+    {
+      "id": "R5",
+      "name": "Tyler Jackson",
+      "role": "Senior Frontend Engineer",
+      "department": "Engineering",
+      "skills": [
+        "React",
+        "TypeScript",
+        "UI Development",
+        "Frontend",
+        "Dashboard",
+        "CSS",
+        "Design Systems"
+      ],
+      "availability": 1.0,
+      "utilization": 0.7,
+      "assigned_projects": [
+        "P6"
+      ],
+      "cost_center": "Engineering",
+      "reports_to": "VP Engineering"
+    },
+    {
+      "id": "R6",
+      "name": "Andrew Chen",
+      "role": "Data Engineer",
+      "department": "Engineering",
+      "skills": [
+        "Data Pipeline",
+        "Python",
+        "SQL",
+        "Database",
+        "Backend",
+        "Snowflake",
+        "dbt",
+        "ETL"
+      ],
+      "availability": 1.0,
+      "utilization": 0.9,
+      "assigned_projects": [
+        "P7",
+        "P11"
+      ],
+      "cost_center": "Engineering",
+      "reports_to": "VP Engineering"
+    },
+    {
+      "id": "R7",
+      "name": "Brandon Wright",
+      "role": "DevOps Engineer",
+      "department": "Engineering",
+      "skills": [
+        "AWS",
+        "Kubernetes",
+        "CI/CD",
+        "DevOps",
+        "Infrastructure",
+        "Terraform",
+        "Security"
+      ],
+      "availability": 1.0,
+      "utilization": 1.1,
+      "assigned_projects": [
+        "P12",
+        "P13",
+        "P20",
+        "P21"
+      ],
+      "cost_center": "Engineering",
+      "reports_to": "VP Engineering"
+    },
+    {
+      "id": "R8",
+      "name": "Daniel Kim",
+      "role": "Platform Engineer",
+      "department": "Engineering",
+      "skills": [
+        "Infrastructure",
+        "Cloud",
+        "DevOps",
+        "Backend",
+        "AWS",
+        "Kubernetes",
+        "Security"
+      ],
+      "availability": 1.0,
+      "utilization": 1.3,
+      "assigned_projects": [
+        "P12",
+        "P13",
+        "P20",
+        "P21"
+      ],
+      "cost_center": "Engineering",
+      "reports_to": "VP Engineering"
+    },
+    {
+      "id": "R9",
+      "name": "Natalie Brown",
+      "role": "QA Engineer",
+      "department": "Engineering",
+      "skills": [
+        "Testing",
+        "Test Automation",
+        "QA",
+        "Quality",
+        "Selenium",
+        "Cypress",
+        "API Testing"
+      ],
+      "availability": 1.0,
+      "utilization": 0.9,
+      "assigned_projects": [
+        "P12",
+        "P20",
+        "P22",
+        "P23"
+      ],
+      "cost_center": "Engineering",
+      "reports_to": "VP Engineering"
+    },
+    {
+      "id": "R10",
+      "name": "Jessica Taylor",
+      "role": "Software Engineer",
+      "department": "Engineering",
+      "skills": [
+        "Python",
+        "Testing",
+        "Backend",
+        "Django",
+        "API Development"
+      ],
+      "availability": 1.0,
+      "utilization": 0.8,
+      "assigned_projects": [
+        "P13",
+        "P21",
+        "P22",
+        "P23"
+      ],
+      "cost_center": "Engineering",
+      "reports_to": "VP Engineering"
+    },
+    {
+      "id": "R11",
+      "name": "Olivia Martinez",
+      "role": "Data Analyst",
+      "department": "Engineering",
+      "skills": [
+        "Analytics",
+        "SQL",
+        "Data Analysis",
+        "Reporting",
+        "Python",
+        "Tableau",
+        "Statistics"
+      ],
+      "availability": 1.0,
+      "utilization": 0.6,
+      "assigned_projects": [
+        "P7",
+        "P25"
+      ],
+      "cost_center": "Engineering",
+      "reports_to": "VP Engineering"
+    },
+    {
+      "id": "R12",
+      "name": "David Park",
+      "role": "Product Manager",
+      "department": "Product",
+      "skills": [
+        "Product Strategy",
+        "Roadmap Planning",
+        "User Research",
+        "Agile",
+        "Analytics"
+      ],
+      "availability": 1.0,
+      "utilization": 0.8,
+      "assigned_projects": [
+        "P8",
+        "P15"
+      ],
+      "cost_center": "Product",
+      "reports_to": "VP Product"
+    },
+    {
+      "id": "R13",
+      "name": "Michelle Wang",
+      "role": "Technical Writer",
+      "department": "Product",
+      "skills": [
+        "Documentation",
+        "Technical Writing",
+        "API Documentation",
+        "Content Strategy"
+      ],
+      "availability": 1.0,
+      "utilization": 0.5,
+      "assigned_projects": [
+        "P9"
+      ],
+      "cost_center": "Product",
+      "reports_to": "VP Product"
+    },
+    {
+      "id": "R14",
+      "name": "Victoria Hernandez",
+      "role": "Product Manager",
+      "department": "Product",
+      "skills": [
+        "Product Strategy",
+        "Customer Research",
+        "User Experience",
+        "Analytics",
+        "A/B Testing"
+      ],
+      "availability": 1.0,
+      "utilization": 0.7,
+      "assigned_projects": [
+        "P10",
+        "P15"
+      ],
+      "cost_center": "Product",
+      "reports_to": "VP Product"
+    },
+    {
+      "id": "R15",
+      "name": "Ashley Robinson",
+      "role": "Associate Product Manager",
+      "department": "Product",
+      "skills": [
+        "Product Analysis",
+        "User Research",
+        "Data Analysis",
+        "Prototyping"
+      ],
+      "availability": 1.0,
+      "utilization": 0.6,
+      "assigned_projects": [
+        "P8",
+        "P10"
+      ],
+      "cost_center": "Product",
+      "reports_to": "VP Product"
+    },
+    {
+      "id": "R16",
+      "name": "Eric Watson",
+      "role": "Marketing Lead",
+      "department": "Marketing",
+      "skills": [
+        "Digital Marketing",
+        "Lead Generation",
+        "SEO",
+        "Content Marketing",
+        "Marketing Analytics"
+      ],
+      "availability": 1.0,
+      "utilization": 0.8,
+      "assigned_projects": [
+        "P4"
+      ],
+      "cost_center": "Marketing",
+      "reports_to": "VP Marketing"
+    },
+    {
+      "id": "R17",
+      "name": "Sarah Chen",
+      "role": "Software Engineer",
+      "department": "Engineering",
+      "skills": [
+        "Software Engineering",
+        "Go-to-Market",
+        "GTM",
+        "Launch",
+        "Positioning",
+        "Messaging"
+      ],
+      "availability": 1.0,
+      "utilization": 0.2,
+      "assigned_projects": [],
+      "cost_center": "Engineering",
+      "reports_to": "VP Engineering"
+    },
+    {
+      "id": "R18",
+      "name": "Rachel Thompson",
+      "role": "Sales Director",
+      "department": "Sales",
+      "skills": [
+        "Enterprise Sales",
+        "Sales Strategy",
+        "Negotiation",
+        "Account Management",
+        "Team Leadership"
+      ],
+      "availability": 1.0,
+      "utilization": 0.8,
+      "assigned_projects": [
+        "P1",
+        "P19"
+      ],
+      "cost_center": "Sales",
+      "reports_to": "VP Sales"
+    },
+    {
+      "id": "R19",
+      "name": "Sean Murphy",
+      "role": "Sales Engineer",
+      "department": "Sales",
+      "skills": [
+        "Technical Sales",
+        "Demo",
+        "POC",
+        "Solution Architecture",
+        "Customer Presentations"
+      ],
+      "availability": 1.0,
+      "utilization": 0.7,
+      "assigned_projects": [
+        "P2",
+        "P3"
+      ],
+      "cost_center": "Sales",
+      "reports_to": "VP Sales"
+    },
+    {
+      "id": "R20",
+      "name": "Gregory Reed",
+      "role": "Account Executive",
+      "department": "Sales",
+      "skills": [
+        "Enterprise Sales",
+        "Prospecting",
+        "Pipeline Management",
+        "Contract Negotiation"
+      ],
+      "availability": 1.0,
+      "utilization": 0.9,
+      "assigned_projects": [
+        "P1",
+        "P2",
+        "P3"
+      ],
+      "cost_center": "Sales",
+      "reports_to": "VP Sales"
+    },
+    {
+      "id": "R21",
+      "name": "Christina Rivera",
+      "role": "Customer Success Manager",
+      "department": "Customer Success",
+      "skills": [
+        "Customer Success",
+        "Account Management",
+        "Onboarding",
+        "Retention",
+        "Relationship Management"
+      ],
+      "availability": 1.0,
+      "utilization": 0.7,
+      "assigned_projects": [
+        "P16"
+      ],
+      "cost_center": "Customer Success",
+      "reports_to": "VP CS"
+    },
+    {
+      "id": "R22",
+      "name": "Jonathan Bailey",
+      "role": "Senior Customer Success Manager",
+      "department": "Customer Success",
+      "skills": [
+        "Customer Success",
+        "Enterprise Accounts",
+        "Onboarding",
+        "Training",
+        "Process Design"
+      ],
+      "availability": 1.0,
+      "utilization": 0.7,
+      "assigned_projects": [
+        "P17"
+      ],
+      "cost_center": "Customer Success",
+      "reports_to": "VP CS"
+    },
+    {
+      "id": "R23",
+      "name": "Hannah Barnes",
+      "role": "HR Manager",
+      "department": "People",
+      "skills": [
+        "Recruiting",
+        "HR",
+        "Talent Acquisition",
+        "Employee Relations",
+        "Compensation"
+      ],
+      "availability": 1.0,
+      "utilization": 1.0,
+      "assigned_projects": [
+        "P18",
+        "P19",
+        "P24"
+      ],
+      "cost_center": "People",
+      "reports_to": "VP People"
+    },
+    {
+      "id": "R24",
+      "name": "Priya Sharma",
+      "role": "Technical Recruiter",
+      "department": "People",
+      "skills": [
+        "Technical Recruiting",
+        "Sourcing",
+        "Interview Coordination",
+        "Employer Branding"
+      ],
+      "availability": 1.0,
+      "utilization": 0.8,
+      "assigned_projects": [
+        "P18",
+        "P24"
+      ],
+      "cost_center": "People",
+      "reports_to": "VP People"
+    },
+    {
+      "id": "R25",
+      "name": "Lisa Chen",
+      "role": "Senior Frontend Engineer",
+      "department": "Engineering",
+      "skills": [
+        "React",
+        "TypeScript",
+        "Frontend",
+        "UI Development",
+        "Dashboard",
+        "Component Libraries",
+        "CSS-in-JS"
+      ],
+      "availability": 1.0,
+      "utilization": 0.7,
+      "assigned_projects": [
+        "P6"
+      ],
+      "cost_center": "Engineering",
+      "reports_to": "VP Engineering"
+    },
+    {
+      "id": "R26",
+      "name": "Stephanie Moore",
+      "role": "Customer Success Associate",
+      "department": "Customer Success",
+      "skills": [
+        "Customer Support",
+        "Onboarding",
+        "Product Training",
+        "Issue Resolution"
+      ],
+      "availability": 1.0,
+      "utilization": 0.5,
+      "assigned_projects": [
+        "P16"
+      ],
+      "cost_center": "Customer Success",
+      "reports_to": "VP CS"
+    },
+    {
+      "id": "R27",
+      "name": "Jacob Anderson",
+      "role": "Customer Success Manager",
+      "department": "Customer Success",
+      "skills": [
+        "Customer Success",
+        "Renewals",
+        "Upselling",
+        "Account Health"
+      ],
+      "availability": 1.0,
+      "utilization": 0.5,
+      "assigned_projects": [
+        "P16"
+      ],
+      "cost_center": "Customer Success",
+      "reports_to": "VP CS"
+    },
+    {
+      "id": "R28",
+      "name": "Timothy Russell",
+      "role": "Marketing Specialist",
+      "department": "Marketing",
+      "skills": [
+        "Content Marketing",
+        "Social Media",
+        "Email Marketing",
+        "Campaign Management"
+      ],
+      "availability": 1.0,
+      "utilization": 0.7,
+      "assigned_projects": [
+        "P4"
+      ],
+      "cost_center": "Marketing",
+      "reports_to": "VP Marketing"
+    },
+    {
+      "id": "R29",
+      "name": "Heather Stewart",
+      "role": "Product Marketing Manager ",
+      "department": "Marketing",
+      "skills": [
+        "Product Marketing",
+        "Paid Media",
+        "Content Marketing",
+        "ABM"
+      ],
+      "availability": 1.0,
+      "utilization": 0.8,
+      "assigned_projects": [
+        "P4"
+      ],
+      "cost_center": "Marketing",
+      "reports_to": "VP Marketing"
+    },
+    {
+      "id": "R30",
+      "name": "Jeffrey Sanders",
+      "role": "Content Strategist",
+      "department": "Product",
+      "skills": [
+        "Content Strategy",
+        "UX Writing",
+        "Information Architecture",
+        "SEO"
+      ],
+      "availability": 0.5,
+      "utilization": 0.4,
+      "assigned_projects": [
+        "P9"
+      ],
+      "cost_center": "Product",
+      "reports_to": "VP Product"
+    },
+    {
+      "id": "R31",
+      "name": "Nathan Scott",
+      "role": "Product Analyst",
+      "department": "Product",
+      "skills": [
+        "Product Analytics",
+        "SQL",
+        "Data Visualization",
+        "A/B Testing",
+        "Mixpanel"
+      ],
+      "availability": 1.0,
+      "utilization": 0.5,
+      "assigned_projects": [
+        "P10"
+      ],
+      "cost_center": "Product",
+      "reports_to": "VP Product"
+    },
+    {
+      "id": "R32",
+      "name": "Patrick Gray",
+      "role": "Implementation Specialist",
+      "department": "Customer Success",
+      "skills": [
+        "Implementation",
+        "Technical Configuration",
+        "Customer Training",
+        "Project Management"
+      ],
+      "availability": 1.0,
+      "utilization": 0.6,
+      "assigned_projects": [
+        "P17"
+      ],
+      "cost_center": "Customer Success",
+      "reports_to": "VP CS"
+    },
+    {
+      "id": "R33",
+      "name": "Vanessa James",
+      "role": "Onboarding Specialist",
+      "department": "Customer Success",
+      "skills": [
+        "Onboarding",
+        "Customer Education",
+        "Product Adoption",
+        "Success Planning"
+      ],
+      "availability": 1.0,
+      "utilization": 0.5,
+      "assigned_projects": [
+        "P17"
+      ],
+      "cost_center": "Customer Success",
+      "reports_to": "VP CS"
+    },
+    {
+      "id": "R34",
+      "name": "Megan Phillips",
+      "role": "Sales Development Rep",
+      "department": "Sales",
+      "skills": [
+        "Prospecting",
+        "Cold Outreach",
+        "Lead Qualification",
+        "CRM Management"
+      ],
+      "availability": 1.0,
+      "utilization": 0.6,
+      "assigned_projects": [
+        "P1"
+      ],
+      "cost_center": "Sales",
+      "reports_to": "VP Sales"
+    },
+    {
+      "id": "R35",
+      "name": "James O'Brien",
+      "role": "Revenue Operations",
+      "department": "Sales",
+      "skills": [
+        "Revenue Operations",
+        "Salesforce",
+        "Analytics",
+        "Process Optimization",
+        "Forecasting"
+      ],
+      "availability": 1.0,
+      "utilization": 0.5,
+      "assigned_projects": [
+        "P19"
+      ],
+      "cost_center": "Sales",
+      "reports_to": "VP Sales"
+    },
+    {
+      "id": "R28",
+      "name": "Alex Turner",
+      "role": "QA Engineer",
+      "department": "Engineering",
+      "skills": [
+        "Testing",
+        "Test Automation",
+        "QA",
+        "Quality",
+        "Playwright",
+        "API Testing",
+        "Performance Testing"
+      ],
+      "availability": 1.0,
+      "utilization": 0.0,
+      "assigned_projects": [],
+      "cost_center": "Engineering",
+      "reports_to": "VP Engineering"
+    }
+  ],
+  "dependencies": [
+    {
+      "id": "D1",
+      "from_project": "P7",
+      "to_project": "P5",
+      "type": "blocks",
+      "description": "Data platform needed for AI engine data processing",
+      "status": "in_progress",
+      "risk_level": "high",
+      "mitigation": "Prioritize data APIs required for AI features"
+    },
+    {
+      "id": "D2",
+      "from_project": "P18",
+      "to_project": "P5",
+      "type": "blocks",
+      "description": "ML engineers needed for AI development velocity",
+      "status": "at_risk",
+      "risk_level": "high",
+      "mitigation": "Engage external recruiters, consider ML contractors"
+    },
+    {
+      "id": "D3",
+      "from_project": "P5",
+      "to_project": "P8",
+      "type": "enables",
+      "description": "AI engine must be ready for beta program launch",
+      "status": "at_risk",
+      "risk_level": "high",
+      "mitigation": "Phase beta with available features first"
+    },
+    {
+      "id": "D4",
+      "from_project": "P12",
+      "to_project": "P8",
+      "type": "blocks",
+      "description": "SOC 2 progress needed for enterprise beta customers",
+      "status": "in_progress",
+      "risk_level": "medium",
+      "mitigation": "Prioritize controls relevant to beta scope"
+    },
+    {
+      "id": "D5",
+      "from_project": "P6",
+      "to_project": "P9",
+      "type": "enables",
+      "description": "UI builder must be complete before documentation",
+      "status": "in_progress",
+      "risk_level": "medium",
+      "mitigation": "Document stable features incrementally"
+    },
+    {
+      "id": "D6",
+      "from_project": "P14",
+      "to_project": "P15",
+      "type": "blocks",
+      "description": "Public API required for integration marketplace",
+      "status": "not_started",
+      "risk_level": "medium",
+      "mitigation": "Start marketplace design in parallel with API development"
+    }
+  ],
+  "enums": {
+    "status": [
+      "not_started",
+      "planning",
+      "in_progress",
+      "at_risk",
+      "behind",
+      "completed"
+    ],
+    "priority": [
+      "low",
+      "medium",
+      "high",
+      "critical"
+    ],
+    "metric_type": [
+      "count",
+      "percentage",
+      "currency",
+      "days",
+      "score",
+      "ratio",
+      "boolean"
+    ],
+    "dependency_type": [
+      "blocks",
+      "enables",
+      "informs"
+    ],
+    "risk_level": [
+      "low",
+      "medium",
+      "high"
+    ]
+  },
+  "check_in": {
+    "date": "2026-03-02",
+    "period": "Bi-weekly #2",
+    "last_check_in": "2026-02-17",
+    "cascade_narrative": "The AI Workflow Engine (P5) hit unexpected ML inference latency issues — model response times are 800ms vs. the 200ms target. This blocks the AI Beta Program (P8) from launching on schedule, which compresses the timeline for onboarding 100 beta customers (KR2.2), and puts the entire Product objective (O2) at risk.",
+    "cascade_chain": ["P5", "P8", "KR2.2", "O2"],
+    "cascade_labels": ["AI Workflow Engine", "AI Beta Program", "100 Beta Customers", "Launch AI & Market Leadership"],
+    "items": [
+      {
+        "id": "CI-1",
+        "type": "decision",
+        "severity": "critical",
+        "title": "Slip AI Beta Program start date by 6 weeks",
+        "proposed_by": "VP Engineering, VP Product",
+        "summary": "The AI Workflow Engine (P5) hit ML inference latency issues — model response times are 800ms, need to be under 200ms for real-time workflows. The root cause is the data platform migration (P7) taking longer than planned. The AI Beta Program (P8) cannot launch until P5 delivers a stable build.",
+        "rationale": "Samantha Lee's team identified the latency bottleneck in the inference pipeline. Andrew Chen estimates 3 more weeks for the data platform schema migration. David Park (PM) agrees April 15 is a realistic new target.",
+        "changes": [
+          {
+            "target_type": "project",
+            "target_id": "P8",
+            "target_label": "AI Beta Program",
+            "field": "start_date",
+            "from": "2026-03-01",
+            "to": "2026-04-15"
+          }
+        ],
+        "impact": "KR2.2 (onboard 100 beta customers by Sept 30) timeline compressed from 7 months to 5.5 months. Still achievable if P5 stabilizes by April 15, but leaves no buffer. If P5 slips further, KR2.2 becomes unachievable.",
+        "status": "pending"
+      },
+      {
+        "id": "CI-2",
+        "type": "decision",
+        "severity": "warning",
+        "title": "Reallocate Carlos Mendez to focus on critical ML work",
+        "proposed_by": "VP Engineering",
+        "summary": "Carlos Mendez is currently assigned to 5 projects at 120% utilization and is burning out. VP Engineering wants to pull him from P11 (API Performance) and P14 (Public API & SDK) to focus exclusively on P5 (AI Workflow Engine) and P25 (AI Model Training Pipeline) — the two most critical ML projects.",
+        "rationale": "Carlos is the only ML engineer currently on staff. His expertise is bottlenecking P5 progress. Sarah Chen (R17) is at 20% utilization with relevant engineering skills and can backfill on P14.",
+        "changes": [
+          {
+            "target_type": "personnel",
+            "target_id": "R2",
+            "target_label": "Carlos Mendez",
+            "field": "remove_from_project",
+            "from": "P11 (API Performance Optimization)",
+            "to": "Removed"
+          },
+          {
+            "target_type": "personnel",
+            "target_id": "R2",
+            "target_label": "Carlos Mendez",
+            "field": "remove_from_project",
+            "from": "P14 (Public API & SDK Development)",
+            "to": "Removed"
+          },
+          {
+            "target_type": "personnel",
+            "target_id": "R17",
+            "target_label": "Sarah Chen",
+            "field": "add_to_project",
+            "from": "Unassigned",
+            "to": "P14 (Public API & SDK Development)"
+          }
+        ],
+        "impact": "P11 loses its ML expertise — Ryan Nguyen and Andrew Chen remain but may need 3 extra weeks. P14 gains Sarah Chen who can handle SDK development. Carlos drops from 120% to ~80% utilization, reducing burnout risk.",
+        "status": "pending"
+      },
+      {
+        "id": "CI-3",
+        "type": "decision",
+        "severity": "warning",
+        "title": "Increase ML engineer salary band by 15%",
+        "proposed_by": "VP People",
+        "summary": "The Engineering Hiring Sprint (P18) has only placed 2 of 14 target engineers. The ML specialist market is extremely competitive — Novacraft lost 2 final-round candidates to Google and Meta compensation packages in the last 3 weeks.",
+        "rationale": "Hannah Barnes: current band of $180K-$220K is below market for ML specialists. Increasing to $210K-$260K aligns with 75th percentile comp data. 3 offers are out and 2 candidates are in final rounds — the higher band could close them.",
+        "changes": [
+          {
+            "target_type": "budget",
+            "target_id": "P18",
+            "target_label": "Engineering Hiring Sprint",
+            "field": "ml_salary_band",
+            "from": "$180K – $220K",
+            "to": "$210K – $260K"
+          }
+        ],
+        "impact": "~$200K additional annual spend across 5 ML hires. Necessary to unblock KR3.1 (grow engineering team from 18 to 32). Without this, ML hiring stalls and P5/P25 timelines extend further. Runway impact: reduces remaining runway by ~0.5 months.",
+        "status": "pending"
+      },
+      {
+        "id": "CI-4",
+        "type": "decision",
+        "severity": "info",
+        "title": "Accept SOC 2 certification delay to August",
+        "proposed_by": "VP Engineering",
+        "summary": "The external auditor (Big4 firm) has a scheduling conflict. The originally planned June audit window is no longer available. The next available window is August.",
+        "rationale": "Brandon Wright explored alternative auditors but switching mid-process would require re-starting several control documentation efforts, adding 2-3 months. Accepting the August window is the faster path.",
+        "changes": [
+          {
+            "target_type": "keyResult",
+            "target_id": "KR2.5",
+            "target_label": "SOC 2 Type II Certification",
+            "field": "target_date",
+            "from": "2026-07-31",
+            "to": "2026-08-31"
+          }
+        ],
+        "impact": "One month delay on SOC 2 certification. Some enterprise beta customers (KR2.2) may require interim compliance documentation (letter of intent + penetration test results) to proceed.",
+        "status": "pending"
+      },
+      {
+        "id": "CI-5",
+        "type": "acceleration",
+        "severity": "good",
+        "title": "Accelerate Onboarding Redesign — ship 30 days early",
+        "proposed_by": "VP Customer Success",
+        "summary": "The Enterprise Onboarding Redesign (P17) is ahead of schedule. Jonathan Bailey's team has the new onboarding flow in pilot with 3 enterprise customers, and early results are exceptional: time-to-value reduced from 6 weeks to 3.5 weeks.",
+        "rationale": "All 3 pilot customers gave positive feedback. The implementation is stable and ready for general availability. Shipping early means new beta customers (KR2.2) benefit from the improved onboarding from day one.",
+        "changes": [
+          {
+            "target_type": "project",
+            "target_id": "P17",
+            "target_label": "Enterprise Onboarding Redesign",
+            "field": "end_date",
+            "from": "2026-04-30",
+            "to": "2026-03-31"
+          },
+          {
+            "target_type": "project",
+            "target_id": "P17",
+            "target_label": "Enterprise Onboarding Redesign",
+            "field": "status",
+            "from": "in_progress",
+            "to": "completed"
+          }
+        ],
+        "impact": "Positive cascade: faster onboarding accelerates KR2.2 (beta customer activation) and KR2.3 (NPS improvement from reduced onboarding friction). Jonathan's team can be redeployed to support the upcoming AI Beta Program launch.",
+        "status": "pending"
+      }
+    ]
+  },
+  "leader_updates": {
+    "date": "2026-03-02",
+    "deadline": "2026-03-01T23:59:00",
+    "leaders": [
+      {
+        "leader": "VP Engineering",
+        "department": "Engineering",
+        "submitted_at": "2026-03-01T22:15:00",
+        "is_late": false,
+        "items": [
+          {
+            "item_id": "P5",
+            "item_type": "project",
+            "item_label": "AI Workflow Engine Core",
+            "ai_suggested_status": "at_risk",
+            "ai_rationale": "P5 is 45% complete with 5 months remaining, but it depends on P7 (Data Platform) which is only 50% done. Carlos Mendez is on this project at 120% total utilization across 5 projects.",
+            "leader_status": "at_risk",
+            "leader_narrative": "Hit ML inference latency issues — 800ms response times vs. 200ms target. Root cause is the P7 schema migration. If latency isn't resolved by mid-April, the AI Beta Program (P8) can't launch on schedule.",
+            "confirmed": true,
+            "proposed_changes": [
+              {
+                "target_type": "project",
+                "target_id": "P8",
+                "target_label": "AI Beta Program",
+                "field": "start_date",
+                "from": "2026-03-01",
+                "to": "2026-04-15"
+              }
+            ]
+          },
+          {
+            "item_id": "CARLOS-REALLOC",
+            "item_type": "project",
+            "item_label": "Carlos Mendez Overallocation",
+            "ai_suggested_status": "at_risk",
+            "ai_rationale": "Carlos Mendez is assigned to 5 projects (P5, P7, P11, P14, P25) at 120% utilization. This is the highest overallocation on the team. Sarah Chen is at 20% utilization with 0 active projects.",
+            "leader_status": "at_risk",
+            "leader_narrative": "Carlos needs to focus on P5 and P25 — the two critical ML projects. Sarah has relevant engineering skills for P14 (SDK development).",
+            "confirmed": true,
+            "proposed_changes": [
+              {
+                "target_type": "personnel",
+                "target_id": "P11 (API Performance Optimization)",
+                "target_label": "Carlos Mendez",
+                "field": "remove_from_project",
+                "from": "Carlos Mendez",
+                "to": ""
+              },
+              {
+                "target_type": "personnel",
+                "target_id": "P14 (Public API & SDK)",
+                "target_label": "Carlos Mendez",
+                "field": "remove_from_project",
+                "from": "Carlos Mendez",
+                "to": ""
+              },
+              {
+                "target_type": "personnel",
+                "target_id": "P14 (Public API & SDK)",
+                "target_label": "Sarah Chen",
+                "field": "add_to_project",
+                "from": "",
+                "to": "Sarah Chen"
+              }
+            ]
+          },
+          {
+            "item_id": "P12",
+            "item_type": "project",
+            "item_label": "SOC 2 Compliance Program",
+            "ai_suggested_status": "at_risk",
+            "ai_rationale": "P12 is 40% complete with target date July 15. Progress is on track, but no auditor milestone is scheduled.",
+            "leader_status": "on_track",
+            "leader_narrative": "Project itself is on-track. External auditor (Big4) has a scheduling conflict — June audit window no longer available. Next window is August. Switching auditors mid-process would add 2-3 months. Accepting the August window is faster.",
+            "confirmed": false,
+            "proposed_changes": [
+              {
+                "target_type": "keyResult",
+                "target_id": "KR2.5",
+                "target_label": "SOC 2 Type II Certification",
+                "field": "target_date",
+                "from": "2026-07-31",
+                "to": "2026-08-31"
+              }
+            ]
+          },
+          {
+            "item_id": "P6",
+            "item_type": "project",
+            "item_label": "Workflow Builder UI",
+            "ai_suggested_status": "on_track",
+            "ai_rationale": "35% progress, end date Aug 31. Progressing within expected range.",
+            "leader_status": "on_track",
+            "confirmed": true
+          },
+          {
+            "item_id": "P7",
+            "item_type": "project",
+            "item_label": "Data Platform Modernization",
+            "ai_suggested_status": "on_track",
+            "ai_rationale": "50% complete, end date June 30. On pace for schema migration completion.",
+            "leader_status": "on_track",
+            "confirmed": true
+          },
+          {
+            "item_id": "P11",
+            "item_type": "project",
+            "item_label": "API Performance Optimization",
+            "ai_suggested_status": "on_track",
+            "ai_rationale": "15→22% progress. Trending upward.",
+            "leader_status": "on_track",
+            "confirmed": true
+          },
+          {
+            "item_id": "P13",
+            "item_type": "project",
+            "item_label": "Security Hardening Sprint",
+            "ai_suggested_status": "on_track",
+            "ai_rationale": "25% progress, end date June 30. Progressing normally.",
+            "leader_status": "on_track",
+            "confirmed": true
+          },
+          {
+            "item_id": "P14",
+            "item_type": "project",
+            "item_label": "Public API & SDK Development",
+            "ai_suggested_status": "on_track",
+            "ai_rationale": "Not started yet. Start date March 1. Marking as kicked off.",
+            "leader_status": "on_track",
+            "confirmed": true
+          },
+          {
+            "item_id": "P20",
+            "item_type": "project",
+            "item_label": "Platform Reliability Engineering",
+            "ai_suggested_status": "on_track",
+            "ai_rationale": "65% progress. Ahead of linear pace.",
+            "leader_status": "on_track",
+            "confirmed": true
+          },
+          {
+            "item_id": "P21",
+            "item_type": "project",
+            "item_label": "Multi-Region Infrastructure",
+            "ai_suggested_status": "on_track",
+            "ai_rationale": "Planning phase. Start date April 1.",
+            "leader_status": "on_track",
+            "confirmed": true
+          },
+          {
+            "item_id": "P22",
+            "item_type": "project",
+            "item_label": "Tech Debt Reduction Sprint",
+            "ai_suggested_status": "on_track",
+            "ai_rationale": "12% progress, end date Sept 15. Timeline still looks feasible.",
+            "leader_status": "on_track",
+            "leader_narrative": "",
+            "confirmed": true
+          },
+          {
+            "item_id": "P23",
+            "item_type": "project",
+            "item_label": "Test Automation Framework",
+            "ai_suggested_status": "on_track",
+            "ai_rationale": "8% progress. Early stages, start date Feb 1.",
+            "leader_status": "on_track",
+            "confirmed": true
+          },
+          {
+            "item_id": "P25",
+            "item_type": "project",
+            "item_label": "AI Model Training Pipeline",
+            "ai_suggested_status": "on_track",
+            "ai_rationale": "30% progress. On pace for July completion.",
+            "leader_status": "on_track",
+            "confirmed": true
+          },
+          {
+            "item_id": "P26",
+            "item_type": "project",
+            "item_label": "Mobile Companion App",
+            "ai_suggested_status": "on_track",
+            "ai_rationale": "Planning phase. No team assigned yet.",
+            "leader_status": "on_track",
+            "confirmed": true
+          }
+        ],
+        "frictions": [
+          {
+            "id": "F-ENG-1",
+            "type": "cross_team_impact",
+            "severity": "high",
+            "description": "Carlos Mendez removal from P11 impacts KR2.4 (API Latency), which is owned by VP Product. VP Product was not consulted. AI auto-tagged VP Product for review.",
+            "related_item_ids": ["CARLOS-REALLOC", "P11", "KR2.4"],
+            "related_leaders": ["VP Product"],
+            "auto_tagged": true
+          },
+          {
+            "id": "F-ENG-2",
+            "type": "missed_risk",
+            "severity": "medium",
+            "description": "P22 (Tech Debt Sprint) has had no progress in 3 weeks. Samantha Lee (lead) has been pulled into P5 firefighting full-time. The 12% figure is stale. VP Engineering confirmed it as On Track without updating.",
+            "related_item_ids": ["P22", "P5"],
+            "related_leaders": [],
+            "auto_tagged": false
+          }
+        ]
+      },
+      {
+        "leader": "VP Sales",
+        "department": "Sales",
+        "submitted_at": "2026-02-28T18:30:00",
+        "is_late": false,
+        "items": [
+          {
+            "item_id": "KR1.1",
+            "item_type": "keyResult",
+            "item_label": "Close 20 Enterprise Deals",
+            "ai_suggested_status": "on_track",
+            "ai_rationale": "3 deals closed out of 20 target (15% at month 2 of 12). Linear pace would suggest ~3.3 by now. On track.",
+            "leader_status": "on_track",
+            "leader_narrative": "Closed FinServ deal this week, $140K ACV. Pipeline is strong with 5 more in late-stage.",
+            "confirmed": true,
+            "metric_update": {
+              "field": "current",
+              "from": 3,
+              "to": 4
+            }
+          },
+          {
+            "item_id": "KR1.2",
+            "item_type": "keyResult",
+            "item_label": "Reduce Sales Cycle to 55 Days",
+            "ai_suggested_status": "at_risk",
+            "ai_rationale": "Sales cycle at 72 days vs. 55-day target. Only 10-day improvement in 2 months. At this rate, you'll reach ~60 days by September, missing the target.",
+            "leader_status": "on_track",
+            "leader_narrative": "The 72-day number is skewed by two legacy deals in the pipeline. New deals using the updated playbook are averaging 58 days. Expect the metric to improve as legacy deals close out.",
+            "confirmed": false
+          },
+          {
+            "item_id": "P1",
+            "item_type": "project",
+            "item_label": "Enterprise Sales Playbook",
+            "ai_suggested_status": "on_track",
+            "ai_rationale": "75% complete, end date March 31. On pace.",
+            "leader_status": "on_track",
+            "leader_narrative": "Playbook complete, training sessions start next week.",
+            "confirmed": true,
+            "metric_update": {
+              "field": "progress",
+              "from": 75,
+              "to": 82
+            }
+          },
+          {
+            "item_id": "P2",
+            "item_type": "project",
+            "item_label": "Interactive Sales Demo Portal",
+            "ai_suggested_status": "on_track",
+            "ai_rationale": "12% progress, started Jan 15, end date Aug 31. Very early but within expected range.",
+            "leader_status": "on_track",
+            "confirmed": true
+          },
+          {
+            "item_id": "P3",
+            "item_type": "project",
+            "item_label": "Sales Cycle Optimization Program",
+            "ai_suggested_status": "on_track",
+            "ai_rationale": "Start date was March 1. Marking as kicked off.",
+            "leader_status": "on_track",
+            "confirmed": true
+          }
+        ],
+        "frictions": [
+          {
+            "id": "F-SALES-1",
+            "type": "data_discrepancy",
+            "severity": "medium",
+            "description": "VP Sales marked KR1.2 as On Track, but the metric (72 days) is trending off-pace. VP Sales provided a rationale about legacy deals skewing the number — facilitator must judge whether to trust the data or the leader's context.",
+            "related_item_ids": ["KR1.2"],
+            "related_leaders": [],
+            "auto_tagged": true
+          },
+          {
+            "id": "F-SALES-2",
+            "type": "missed_risk",
+            "severity": "low",
+            "description": "P2 (Demo Portal) needs real AI workflow demos, which depend on P5 (AI Workflow Engine). If P5 is delayed, the demo portal ships with placeholder content. No formal dependency was recorded. This will surface as a surprise in 2 months.",
+            "related_item_ids": ["P2", "P5"],
+            "related_leaders": ["VP Engineering"],
+            "auto_tagged": false
+          }
+        ]
+      },
+      {
+        "leader": "VP Product",
+        "department": "Product",
+        "submitted_at": "2026-03-01T14:45:00",
+        "is_late": false,
+        "items": [
+          {
+            "item_id": "KR2.1",
+            "item_type": "keyResult",
+            "item_label": "Ship AI Workflow to GA",
+            "ai_suggested_status": "at_risk",
+            "ai_rationale": "This KR depends on P5 (AI Workflow Engine) which is At Risk, and P6 (Workflow Builder UI) at 35%. Target date June 30 is tight.",
+            "leader_status": "at_risk",
+            "leader_narrative": "P6 is on track independently — the risk is entirely from P5.",
+            "confirmed": true
+          },
+          {
+            "item_id": "P8",
+            "item_type": "project",
+            "item_label": "AI Beta Program Launch",
+            "ai_suggested_status": "blocked",
+            "ai_rationale": "P8 was scheduled to start March 1 but depends on P5 delivering a stable build. P5 is At Risk.",
+            "leader_status": "at_risk",
+            "leader_narrative": "We can launch a 'lite beta' with the 3 stable workflow templates that work today, without the full ML inference pipeline. This gets us customer feedback 4 weeks earlier while P5 catches up. Lite beta covers ~40% of the planned feature set. Beta NPS will be lower. But waiting 6 more weeks for perfection risks the entire KR2.2 target.",
+            "confirmed": false,
+            "proposed_changes": [
+              {
+                "target_type": "project",
+                "target_id": "P8",
+                "target_label": "AI Beta Program",
+                "field": "start_date",
+                "from": "2026-03-01",
+                "to": "2026-03-15"
+              }
+            ]
+          },
+          {
+            "item_id": "KR2.2",
+            "item_type": "keyResult",
+            "item_label": "100 Beta Customers",
+            "ai_suggested_status": "on_track",
+            "ai_rationale": "Early stages, target Dec 31. No beta launched yet but timeline allows ramp-up.",
+            "leader_status": "at_risk",
+            "leader_narrative": "If P5 slips beyond April 15, the 100-customer target becomes unachievable regardless of beta approach. We'd need to either reduce the target to 60 or extend the deadline to Q4.",
+            "confirmed": false
+          },
+          {
+            "item_id": "KR2.3",
+            "item_type": "keyResult",
+            "item_label": "Enterprise NPS to 50",
+            "ai_suggested_status": "on_track",
+            "ai_rationale": "NPS at 36, up from 32 baseline. Target 50. Progress is gradual but trending right.",
+            "leader_status": "on_track",
+            "leader_narrative": "Latest survey came back at 38 (up from 36). Top 3 detractor themes: onboarding complexity, missing API docs, slow support response.",
+            "confirmed": true,
+            "metric_update": {
+              "field": "current",
+              "from": 36,
+              "to": 38
+            }
+          },
+          {
+            "item_id": "P9",
+            "item_type": "project",
+            "item_label": "AI Documentation Hub",
+            "ai_suggested_status": "on_track",
+            "ai_rationale": "Not started. Scheduled start March 15.",
+            "leader_status": "on_track",
+            "confirmed": true
+          },
+          {
+            "item_id": "P10",
+            "item_type": "project",
+            "item_label": "Enterprise NPS Feedback Program",
+            "ai_suggested_status": "on_track",
+            "ai_rationale": "40% complete. On pace for June completion.",
+            "leader_status": "on_track",
+            "confirmed": true
+          },
+          {
+            "item_id": "P15",
+            "item_type": "project",
+            "item_label": "Integration Marketplace Development",
+            "ai_suggested_status": "on_track",
+            "ai_rationale": "Not started. Scheduled start April 1.",
+            "leader_status": "on_track",
+            "confirmed": true
+          }
+        ],
+        "frictions": [
+          {
+            "id": "F-PROD-1",
+            "type": "competing_proposal",
+            "severity": "high",
+            "description": "VP Product proposes P8 start March 15 (lite beta). VP Engineering proposes P8 start April 15 (wait for full engine). Two competing proposals for the same item — CEO must decide.",
+            "related_item_ids": ["P8"],
+            "related_leaders": ["VP Engineering"],
+            "auto_tagged": true
+          },
+          {
+            "id": "F-PROD-2",
+            "type": "cross_team_impact",
+            "severity": "medium",
+            "description": "Auto-tagged on VP Engineering's Carlos reallocation proposal. VP Product's conditional approval: 'OK losing Carlos on P11 if Ryan and Andrew can maintain current pace. But need commitment that KR2.4 target date doesn't slip.'",
+            "related_item_ids": ["P11", "KR2.4", "CARLOS-REALLOC"],
+            "related_leaders": ["VP Engineering"],
+            "auto_tagged": true
+          }
+        ]
+      },
+      {
+        "leader": "VP People",
+        "department": "People",
+        "submitted_at": "2026-03-02T08:30:00",
+        "is_late": true,
+        "items": [
+          {
+            "item_id": "KR3.1",
+            "item_type": "keyResult",
+            "item_label": "Grow Engineering Team to 32",
+            "ai_suggested_status": "at_risk",
+            "ai_rationale": "2 of 14 target engineers hired (14%). At month 6 of 13-month timeline. Significantly behind linear pace (should be ~6 hires by now).",
+            "leader_status": "at_risk",
+            "leader_narrative": "Lost 2 ML specialist candidates to Google and Meta in the last 3 weeks. Both cited compensation as the deciding factor.",
+            "confirmed": true
+          },
+          {
+            "item_id": "P18",
+            "item_type": "project",
+            "item_label": "Engineering Hiring Sprint",
+            "ai_suggested_status": "at_risk",
+            "ai_rationale": "14% progress, target Sept 30. 3 offers out, 2 in final rounds, but lost 2 candidates recently.",
+            "leader_status": "at_risk",
+            "leader_narrative": "Current salary band ($180K-$220K) is below market 50th percentile for ML engineers. Will keep losing candidates without adjustment. 3 offers are out now — the higher band could close them. Without this, P5 and P25 timelines extend further. VP Finance has concerns — recommend we discuss tradeoffs: either raise the band, bring on ML contractors at higher hourly rates, or accept that P5/P25 will be slower.",
+            "confirmed": true,
+            "proposed_changes": [
+              {
+                "target_type": "budget",
+                "target_id": "ml_salary_band",
+                "target_label": "ML Engineer Salary Band",
+                "field": "salary_range",
+                "from": "$180K-$220K",
+                "to": "$210K-$260K"
+              }
+            ]
+          },
+          {
+            "item_id": "P19",
+            "item_type": "project",
+            "item_label": "GTM Team Expansion",
+            "ai_suggested_status": "on_track",
+            "ai_rationale": "10% progress, started Jan 15, end date Aug 31. Early stages.",
+            "leader_status": "on_track",
+            "confirmed": true
+          },
+          {
+            "item_id": "KR3.4",
+            "item_type": "keyResult",
+            "item_label": "Employee Engagement Score 85%",
+            "ai_suggested_status": "on_track",
+            "ai_rationale": "Score at 72%, target 85%. Engagement program in progress.",
+            "leader_status": "on_track",
+            "confirmed": true
+          },
+          {
+            "item_id": "P24",
+            "item_type": "project",
+            "item_label": "Employee Engagement Program",
+            "ai_suggested_status": "on_track",
+            "ai_rationale": "15% progress. On pace.",
+            "leader_status": "on_track",
+            "confirmed": true
+          }
+        ],
+        "frictions": [
+          {
+            "id": "F-PPL-1",
+            "type": "late_submission",
+            "severity": "medium",
+            "description": "VP People submitted at 8:30 AM on March 2 — 30 minutes before the check-in. Reason: final-round interviews all of Friday. AI had to regenerate the brief on the fly.",
+            "related_item_ids": [],
+            "related_leaders": [],
+            "auto_tagged": true
+          },
+          {
+            "id": "F-PPL-2",
+            "type": "missed_risk",
+            "severity": "medium",
+            "description": "P19 (GTM Hiring) pipeline is thin — only 4 candidates in process for 8 roles. VP People chose not to flag it to avoid raising two alarms in one check-in. Will flag next time if things don't improve.",
+            "related_item_ids": ["P19"],
+            "related_leaders": [],
+            "auto_tagged": false
+          }
+        ]
+      },
+      {
+        "leader": "VP Customer Success",
+        "department": "Customer Success",
+        "submitted_at": "2026-02-28T17:00:00",
+        "is_late": false,
+        "items": [
+          {
+            "item_id": "P17",
+            "item_type": "project",
+            "item_label": "Enterprise Onboarding Redesign",
+            "ai_suggested_status": "ahead",
+            "ai_rationale": "68% complete with end date April 30. At this velocity, likely to complete by late March.",
+            "leader_status": "ahead",
+            "leader_narrative": "New onboarding flow is in pilot with 3 enterprise customers. Early results are exceptional — time-to-value reduced from 6 weeks to 3.5 weeks. All 3 gave positive feedback. Implementation is stable, ready for GA. Shipping early means beta customers (KR2.2) benefit from improved onboarding from day one.",
+            "confirmed": true,
+            "proposed_changes": [
+              {
+                "target_type": "project",
+                "target_id": "P17",
+                "target_label": "Enterprise Onboarding Redesign",
+                "field": "end_date",
+                "from": "2026-04-30",
+                "to": "2026-03-31"
+              },
+              {
+                "target_type": "project",
+                "target_id": "P17",
+                "target_label": "Enterprise Onboarding Redesign",
+                "field": "status",
+                "from": "in_progress",
+                "to": "completed"
+              }
+            ]
+          },
+          {
+            "item_id": "P16",
+            "item_type": "project",
+            "item_label": "Customer Health Score Dashboard",
+            "ai_suggested_status": "on_track",
+            "ai_rationale": "8% progress, end date August 31. Started Feb 1. Only 1 month in, but Christina Rivera is the only active contributor — Stephanie Moore and Jacob Anderson have light utilization.",
+            "leader_status": "on_track",
+            "leader_narrative": "Started slow due to competing priorities. Expect to ramp in March.",
+            "confirmed": true
+          }
+        ],
+        "frictions": [
+          {
+            "id": "F-CS-1",
+            "type": "missed_risk",
+            "severity": "low",
+            "description": "P17 completion frees 3 team members (Jonathan Bailey, Patrick Gray, Vanessa James). Neither VP CS nor VP Product has proposed where to reassign them. AI suggests reallocation to P16 or P8.",
+            "related_item_ids": ["P17", "P16", "P8"],
+            "related_leaders": ["VP Product"],
+            "auto_tagged": true
+          },
+          {
+            "id": "F-CS-2",
+            "type": "missed_risk",
+            "severity": "low",
+            "description": "P16 is technically on track but has lost momentum. Christina Rivera has been pulled into ad-hoc customer escalations not tracked in the plan. VP CS frames it gently without quantifying the escalation drain.",
+            "related_item_ids": ["P16"],
+            "related_leaders": [],
+            "auto_tagged": false
+          }
+        ]
+      }
+    ]
+  }
+}

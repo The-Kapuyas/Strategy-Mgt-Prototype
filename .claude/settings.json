@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep:*)",
+      "Bash(python3:*)",
+      "mcp__figma__generate_figma_design"
+    ]
+  }
+}

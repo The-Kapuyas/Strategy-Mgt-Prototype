@@ -1,0 +1,5237 @@
+{
+  "metadata": {
+    "company_name": "Pulley",
+    "company_stage": "Series B",
+    "headcount": 35,
+    "planning_period": "FY2026",
+    "current_date": "2026-03-16",
+    "last_updated": "2026-03-16",
+    "currency": "USD"
+  },
+  "objectives": [
+    {
+      "id": "O1",
+      "theme": "Strategy",
+      "objective": "Grow Equity Revenue, with emphasis on Mid Market",
+      "description": "Grow revenue in the Equity Mgt market, with specific focus on mid market companies (Series B+)",
+      "owner": "Grant Oladipo",
+      "time_horizon": "2026-12-31",
+      "priority": "high",
+      "status": "in_progress",
+      "progress": 0,
+      "key_results": [
+        "KR1",
+        "KR2"
+      ]
+    },
+    {
+      "id": "O2",
+      "theme": "Strategy",
+      "objective": "Expand the Addressable Market",
+      "description": "Launch new innovation product to expand beyond equity cap table offering",
+      "owner": "Grant Oladipo",
+      "time_horizon": "2026-12-31",
+      "priority": "high",
+      "status": "in_progress",
+      "progress": 0,
+      "key_results": [
+        "KR3",
+        "KR4",
+        "KR5"
+      ]
+    }
+  ],
+  "key_results": [
+    {
+      "id": "KR1",
+      "objective_id": "O1",
+      "description": "Overall - 2026 Equity ARR $21M",
+      "detail": "Achieve 55% YoY increase in ARR to improve overall revenue from",
+      "metric": "Overall - 2026 Equity ARR $21M",
+      "metric_type": "currency",
+      "baseline": 0,
+      "target": 2026,
+      "current": 0,
+      "progress": 0,
+      "owner": "Grant Oladipo",
+      "status": "in_progress",
+      "target_date": "2026-12-31",
+      "departmental_key_results": [
+        {
+          "id": "DKR1",
+          "company_kr_id": "KR1",
+          "department": "Revenue",
+          "description": "Overall - 2000 Variable capture opportunities",
+          "detail": "Catch-all for anything that isn't marketing / sales partnerships sourced. Attributable, or trackable through \"predictable marketing\" like Google or LinkedIn. Often referred to as demand / brand marketing in bigger companie",
+          "metric": "Overall - 2000 Variable capture opportunities",
+          "metric_type": "count",
+          "baseline": 0,
+          "target": 2000,
+          "current": 0,
+          "progress": 0,
+          "owner": "Tony Doucet",
+          "status": "in_progress",
+          "target_date": "2026-12-31",
+          "linked_projects": [
+            "P50",
+            "P53",
+            "P56",
+            "P57",
+            "P60",
+            "P61"
+          ]
+        },
+        {
+          "id": "DKR2",
+          "company_kr_id": "KR1",
+          "department": "Revenue",
+          "description": "Overall - 762 Growth marketing opportunities",
+          "detail": "Growth marketing opportunities  include opportunities AI/LLM, Paid Search, Paid Social, Review Sites",
+          "metric": "Overall - 762 Growth marketing opportunities",
+          "metric_type": "count",
+          "baseline": 0,
+          "target": 762,
+          "current": 0,
+          "progress": 0,
+          "owner": "Tony Doucet",
+          "status": "in_progress",
+          "target_date": "2026-12-31",
+          "linked_projects": [
+            "P50",
+            "P53",
+            "P56",
+            "P57",
+            "P60",
+            "P61",
+            "P63"
+          ]
+        },
+        {
+          "id": "DKR3",
+          "company_kr_id": "KR1",
+          "department": "Revenue",
+          "description": "Overall - 1890 owned opportunities within ESV",
+          "detail": "PMM sourced opportunities within early stage segment",
+          "metric": "Overall - 1890 owned opportunities within ESV",
+          "metric_type": "count",
+          "baseline": 0,
+          "target": 1890,
+          "current": 0,
+          "progress": 0,
+          "owner": "Owen Bitas",
+          "status": "in_progress",
+          "target_date": "2026-12-31",
+          "linked_projects": [
+            "P50",
+            "P53",
+            "P56",
+            "P57",
+            "P60",
+            "P61"
+          ]
+        },
+        {
+          "id": "DKR10",
+          "company_kr_id": "KR1",
+          "department": "Revenue",
+          "description": "Overall - $5.8M New Equity ARR",
+          "detail": "This tracks the total value of new subscription-based contracts added within the period.",
+          "metric": "Overall - $5.8M New Equity ARR",
+          "metric_type": "currency",
+          "baseline": 0,
+          "target": 5.8,
+          "current": 0,
+          "progress": 0,
+          "owner": "Sam Sorbo",
+          "status": "in_progress",
+          "target_date": "2026-12-31",
+          "linked_projects": [
+            "P103",
+            "P106"
+          ]
+        },
+        {
+          "id": "DKR11",
+          "company_kr_id": "KR1",
+          "department": "Revenue",
+          "description": "Overall - 45% Win rate",
+          "detail": "Measures the expected % of customers of all opportunities who sign with Pulley",
+          "metric": "Overall - 45% Win rate",
+          "metric_type": "count",
+          "baseline": 0,
+          "target": 45,
+          "current": 0,
+          "progress": 0,
+          "owner": "Sam Sorbo",
+          "status": "in_progress",
+          "target_date": "2026-12-31",
+          "linked_projects": [
+            "P103"
+          ]
+        },
+        {
+          "id": "DKR12",
+          "company_kr_id": "KR1",
+          "department": "Revenue",
+          "description": "Overall - $3100 ACV",
+          "detail": "This represents the average revenue generated from a single customer contract over a year.",
+          "metric": "Overall - $3100 ACV",
+          "metric_type": "currency",
+          "baseline": 0,
+          "target": 3100,
+          "current": 0,
+          "progress": 0,
+          "owner": "Sam Sorbo",
+          "status": "in_progress",
+          "target_date": "2026-12-31",
+          "linked_projects": [
+            "P103",
+            "P106"
+          ]
+        },
+        {
+          "id": "DKR18",
+          "company_kr_id": "KR1",
+          "department": "Revenue",
+          "description": "Overall - 675 partnership sourced opportunities",
+          "detail": "Combination of 648 early stage and 27 mid stage opportunities",
+          "metric": "Overall - 675 partnership sourced opportunities",
+          "metric_type": "count",
+          "baseline": 0,
+          "target": 675,
+          "current": 0,
+          "progress": 0,
+          "owner": "Ryan Husk",
+          "status": "in_progress",
+          "target_date": "2026-12-31",
+          "linked_projects": [
+            "P71",
+            "P72",
+            "P73",
+            "P75",
+            "P76",
+            "P77",
+            "P78",
+            "P79",
+            "P80",
+            "P81",
+            "P82",
+            "P83",
+            "P84",
+            "P85",
+            "P86",
+            "P87",
+            "P88",
+            "P89",
+            "P90",
+            "P91",
+            "P92"
+          ]
+        },
+        {
+          "id": "DKR19",
+          "company_kr_id": "KR1",
+          "department": "Revenue",
+          "description": "Overall - $804k new partnership equity ARR",
+          "detail": "Revenue target based on 675 partner sourced opportunities with blended ACV and win rate across early and mid stage",
+          "metric": "Overall - $804k new partnership equity ARR",
+          "metric_type": "currency",
+          "baseline": 0,
+          "target": 804,
+          "current": 0,
+          "progress": 0,
+          "owner": "Ryan Husk",
+          "status": "in_progress",
+          "target_date": "2026-12-31",
+          "linked_projects": [
+            "P71",
+            "P72",
+            "P73",
+            "P75",
+            "P76",
+            "P77",
+            "P78",
+            "P79",
+            "P80",
+            "P81",
+            "P82",
+            "P83",
+            "P84",
+            "P85",
+            "P86",
+            "P87",
+            "P88",
+            "P89",
+            "P90",
+            "P91",
+            "P92"
+          ]
+        },
+        {
+          "id": "DKR22",
+          "company_kr_id": "KR1",
+          "department": "Product",
+          "description": "2-3 initiatives / quarter per app team",
+          "detail": "Core equity workflows and product improvement features by app teams 1 and 2",
+          "metric": "2-3 initiatives / quarter per app team",
+          "metric_type": "count",
+          "baseline": 0,
+          "target": 2,
+          "current": 0,
+          "progress": 0,
+          "owner": "Tamar Shor",
+          "status": "in_progress",
+          "target_date": "2026-12-31",
+          "linked_projects": [
+            "P98",
+            "P99"
+          ]
+        },
+        {
+          "id": "DKR23",
+          "company_kr_id": "KR1",
+          "department": "Product",
+          "description": "2-3 key equity Intelligence releases",
+          "detail": "AI native features for core equity product by AI1 team",
+          "metric": "2-3 key equity Intelligence releases",
+          "metric_type": "count",
+          "baseline": 0,
+          "target": 2,
+          "current": 0,
+          "progress": 0,
+          "owner": "Tamar Shor",
+          "status": "in_progress",
+          "target_date": "2026-12-31",
+          "linked_projects": [
+            "P99",
+            "P101",
+            "P102"
+          ]
+        },
+        {
+          "id": "DKR25",
+          "company_kr_id": "KR1",
+          "department": "Engineering",
+          "description": "Performance quality metric [TBD]",
+          "detail": "[Placeholder for ENG]",
+          "metric": "Performance quality metric [TBD]",
+          "metric_type": "count",
+          "baseline": 0,
+          "target": 1,
+          "current": 0,
+          "progress": 0,
+          "owner": "Marvin Guerra",
+          "status": "in_progress",
+          "target_date": "2026-12-31",
+          "linked_projects": []
+        },
+        {
+          "id": "DKR28",
+          "company_kr_id": "KR1",
+          "department": "Customer",
+          "description": "$1300 Expansion ARR",
+          "detail": "Increasing average ARR across all customers (early + mid stage) by $1300 to contribute in overall goal of meeting $21M in equity ARR",
+          "metric": "$1300 Expansion ARR",
+          "metric_type": "currency",
+          "baseline": 0,
+          "target": 1300,
+          "current": 0,
+          "progress": 0,
+          "owner": "Tami Tande",
+          "status": "in_progress",
+          "target_date": "2026-12-31",
+          "linked_projects": [
+            "P1",
+            "P2",
+            "P3",
+            "P6",
+            "P9"
+          ]
+        },
+        {
+          "id": "DKR29",
+          "company_kr_id": "KR1",
+          "department": "Customer",
+          "description": "80% Gross retention rate",
+          "detail": "Ensuring 80% of customers (early + mid stage) don’t churn or downgrade package to reduce spend with pulley",
+          "metric": "80% Gross retention rate",
+          "metric_type": "count",
+          "baseline": 0,
+          "target": 80,
+          "current": 0,
+          "progress": 0,
+          "owner": "Tami Tande",
+          "status": "in_progress",
+          "target_date": "2026-12-31",
+          "linked_projects": [
+            "P9",
+            "P10"
+          ]
+        },
+        {
+          "id": "DKR30",
+          "company_kr_id": "KR1",
+          "department": "Customer",
+          "description": "25% logo churn",
+          "detail": "Account for a maximum of 25% logos churned across all customers",
+          "metric": "25% logo churn",
+          "metric_type": "count",
+          "baseline": 0,
+          "target": 25,
+          "current": 0,
+          "progress": 0,
+          "owner": "Tami Tande",
+          "status": "in_progress",
+          "target_date": "2026-12-31",
+          "linked_projects": [
+            "P1",
+            "P2",
+            "P3",
+            "P9"
+          ]
+        },
+        {
+          "id": "DKR31",
+          "company_kr_id": "KR1",
+          "department": "Customer",
+          "description": "100% onboarding CSAT",
+          "detail": "Onboarding completed on time and with high customer satisfaction to ensure superior customer experience and ultimately increase retention, while reducing churn",
+          "metric": "100% onboarding CSAT",
+          "metric_type": "count",
+          "baseline": 0,
+          "target": 100,
+          "current": 0,
+          "progress": 0,
+          "owner": "Tami Tande",
+          "status": "in_progress",
+          "target_date": "2026-12-31",
+          "linked_projects": [
+            "P5",
+            "P8",
+            "P10"
+          ]
+        },
+        {
+          "id": "DKR34",
+          "company_kr_id": "KR1",
+          "department": "Operations",
+          "description": "100% IT and security employee compliance scores",
+          "detail": "Ensures all employees are in compliance with the organizational IT policies, which in turn ensures readiness for company IT audits and certifications (SOC 1 etc.)",
+          "metric": "100% IT and security employee compliance scores",
+          "metric_type": "count",
+          "baseline": 0,
+          "target": 100,
+          "current": 0,
+          "progress": 0,
+          "owner": "Brandon Green",
+          "status": "in_progress",
+          "target_date": "2026-12-31",
+          "linked_projects": [
+            "P42"
+          ]
+        },
+        {
+          "id": "DKR35",
+          "company_kr_id": "KR1",
+          "department": "Operations",
+          "description": "100% compliance company readiness (audit, GDPR, SOC1/2)",
+          "detail": "Ensures company’s IT infrastructure follows all applicable data sharing and compliance laws and mandatory certifications",
+          "metric": "100% compliance company readiness (audit, GDPR, SOC1/2)",
+          "metric_type": "count",
+          "baseline": 0,
+          "target": 100,
+          "current": 0,
+          "progress": 0,
+          "owner": "Brandon Green",
+          "status": "in_progress",
+          "target_date": "2026-12-31",
+          "linked_projects": [
+            "P37",
+            "P40",
+            "P41",
+            "P42",
+            "P43"
+          ]
+        },
+        {
+          "id": "DKR36",
+          "company_kr_id": "KR1",
+          "department": "Operations",
+          "description": "100% new IT and security compliance",
+          "detail": "Ensures company is up to date and compliant with all required licenses for new products",
+          "metric": "100% new IT and security compliance",
+          "metric_type": "count",
+          "baseline": 0,
+          "target": 100,
+          "current": 0,
+          "progress": 0,
+          "owner": "Brandon Green",
+          "status": "in_progress",
+          "target_date": "2026-12-31",
+          "linked_projects": [
+            "P34",
+            "P35",
+            "P36"
+          ]
+        },
+        {
+          "id": "DKR39",
+          "company_kr_id": "KR1",
+          "department": "Finance",
+          "description": "3Y org runway",
+          "detail": "This shows the number of years of operational liquidity at our current spending levels. It signals financial stability, providing a buffer to navigate market volatility or invest in new innovation without immediate fundraising pressure.",
+          "metric": "3Y org runway",
+          "metric_type": "count",
+          "baseline": 0,
+          "target": 3,
+          "current": 0,
+          "progress": 0,
+          "owner": "Doris Zhou",
+          "status": "in_progress",
+          "target_date": "2026-12-31",
+          "linked_projects": [
+            "P33"
+          ]
+        },
+        {
+          "id": "DKR42",
+          "company_kr_id": "KR1",
+          "department": "Customer",
+          "description": "$260k ARR",
+          "detail": "This tracks the total value of new services-based revenue added within the period.",
+          "metric": "$260k ARR",
+          "metric_type": "currency",
+          "baseline": 0,
+          "target": 260,
+          "current": 0,
+          "progress": 0,
+          "owner": "Tami Tande",
+          "status": "in_progress",
+          "target_date": "2026-12-31",
+          "linked_projects": [
+            "P4",
+            "P6",
+            "P7"
+          ]
+        },
+        {
+          "id": "DKR44",
+          "company_kr_id": "KR1",
+          "department": "Engineering",
+          "description": "Product quality [TBD]",
+          "detail": "",
+          "metric": "Product quality [TBD]",
+          "metric_type": "count",
+          "baseline": 0,
+          "target": 1,
+          "current": 0,
+          "progress": 0,
+          "owner": "Marvin Guerra",
+          "status": "in_progress",
+          "target_date": "2026-12-31",
+          "linked_projects": []
+        }
+      ]
+    },
+    {
+      "id": "KR2",
+      "objective_id": "O1",
+      "description": "Mid market - 2026 Equity mid market ARR $6M",
+      "detail": "Focus on growing mid market / growth stage customer base as a lever of increasing ACV and overall revenue",
+      "metric": "Mid market - 2026 Equity mid market ARR $6M",
+      "metric_type": "currency",
+      "baseline": 0,
+      "target": 2026,
+      "current": 0,
+      "progress": 0,
+      "owner": "Grant Oladipo",
+      "status": "in_progress",
+      "target_date": "2026-12-31",
+      "departmental_key_results": [
+        {
+          "id": "DKR4",
+          "company_kr_id": "KR2",
+          "department": "Revenue",
+          "description": "Mid market - 261 variable capture opportunities",
+          "detail": "Catch-all for anything that isn't marketing / sales partnerships sourced. Attributable, or trackable through \"predictable marketing\" like Google or LinkedIn. Often referred to as demand / brand marketing in bigger companie",
+          "metric": "Mid market - 261 variable capture opportunities",
+          "metric_type": "count",
+          "baseline": 0,
+          "target": 261,
+          "current": 0,
+          "progress": 0,
+          "owner": "Owen Bitas",
+          "status": "in_progress",
+          "target_date": "2026-12-31",
+          "linked_projects": [
+            "P48",
+            "P49",
+            "P51",
+            "P52",
+            "P59",
+            "P62"
+          ]
+        },
+        {
+          "id": "DKR5",
+          "company_kr_id": "KR2",
+          "department": "Revenue",
+          "description": "Mid market - increasing mid market ACV to 10k",
+          "detail": "Engaging in PMM efforts through Packaging & Value Positioning",
+          "metric": "Mid market - increasing mid market ACV to 10k",
+          "metric_type": "count",
+          "baseline": 0,
+          "target": 10,
+          "current": 0,
+          "progress": 0,
+          "owner": "Owen Bitas",
+          "status": "in_progress",
+          "target_date": "2026-12-31",
+          "linked_projects": [
+            "P48",
+            "P49",
+            "P51",
+            "P52",
+            "P59",
+            "P62"
+          ]
+        },
+        {
+          "id": "DKR9",
+          "company_kr_id": "KR2",
+          "department": "Revenue",
+          "description": "Mid market - 88 growth marketing opportunities",
+          "detail": "Growth marketing opportunities  include opportunities AI/LLM, Paid Search, Paid Social, Review Sites",
+          "metric": "Mid market - 88 growth marketing opportunities",
+          "metric_type": "count",
+          "baseline": 0,
+          "target": 88,
+          "current": 0,
+          "progress": 0,
+          "owner": "Tony Doucet",
+          "status": "in_progress",
+          "target_date": "2026-12-31",
+          "linked_projects": [
+            "P48",
+            "P49",
+            "P51",
+            "P52",
+            "P59",
+            "P62",
+            "P63"
+          ]
+        },
+        {
+          "id": "DKR13",
+          "company_kr_id": "KR2",
+          "department": "Revenue",
+          "description": "Mid market - $2.2M New Equity ARR",
+          "detail": "This tracks the total value of new subscription-based contracts added within the period.",
+          "metric": "Mid market - $2.2M New Equity ARR",
+          "metric_type": "currency",
+          "baseline": 0,
+          "target": 2.2,
+          "current": 0,
+          "progress": 0,
+          "owner": "Sam Sorbo",
+          "status": "in_progress",
+          "target_date": "2026-12-31",
+          "linked_projects": [
+            "P104"
+          ]
+        },
+        {
+          "id": "DKR14",
+          "company_kr_id": "KR2",
+          "department": "Revenue",
+          "description": "Mid market - 33% Win rate",
+          "detail": "Measures the expected % of customers of all opportunities who sign with Pulley",
+          "metric": "Mid market - 33% Win rate",
+          "metric_type": "count",
+          "baseline": 0,
+          "target": 33,
+          "current": 0,
+          "progress": 0,
+          "owner": "Sam Sorbo",
+          "status": "in_progress",
+          "target_date": "2026-12-31",
+          "linked_projects": [
+            "P104"
+          ]
+        },
+        {
+          "id": "DKR15",
+          "company_kr_id": "KR2",
+          "department": "Revenue",
+          "description": "Mid market - $8.5k ACV",
+          "detail": "This represents the average revenue generated from a single customer contract over a year.",
+          "metric": "Mid market - $8.5k ACV",
+          "metric_type": "currency",
+          "baseline": 0,
+          "target": 8.5,
+          "current": 0,
+          "progress": 0,
+          "owner": "Sam Sorbo",
+          "status": "in_progress",
+          "target_date": "2026-12-31",
+          "linked_projects": [
+            "P104"
+          ]
+        },
+        {
+          "id": "DKR20",
+          "company_kr_id": "KR2",
+          "department": "Revenue",
+          "description": "Mid market - 27 partnership sourced opportunities",
+          "detail": "Partnership sourced opportunities through referrals from Pulley partners across channels such as law firms, VC backed firms etc.",
+          "metric": "Mid market - 27 partnership sourced opportunities",
+          "metric_type": "count",
+          "baseline": 0,
+          "target": 27,
+          "current": 0,
+          "progress": 0,
+          "owner": "Ryan Husk",
+          "status": "in_progress",
+          "target_date": "2026-12-31",
+          "linked_projects": [
+            "P74"
+          ]
+        },
+        {
+          "id": "DKR21",
+          "company_kr_id": "KR2",
+          "department": "Revenue",
+          "description": "Mid market - $75k new partnerships equity ARR",
+          "detail": "Revenue translation of mid market partnership sourced opportunities with mid market ACV ($8.4k) and close rates (33%)",
+          "metric": "Mid market - $75k new partnerships equity ARR",
+          "metric_type": "currency",
+          "baseline": 0,
+          "target": 75,
+          "current": 0,
+          "progress": 0,
+          "owner": "Ryan Husk",
+          "status": "in_progress",
+          "target_date": "2026-12-31",
+          "linked_projects": [
+            "P74"
+          ]
+        },
+        {
+          "id": "DKR27",
+          "company_kr_id": "KR2",
+          "department": "Engineering",
+          "description": "Performance quality metric [TBD]",
+          "detail": "[Placeholder for ENG]",
+          "metric": "Performance quality metric [TBD]",
+          "metric_type": "count",
+          "baseline": 0,
+          "target": 1,
+          "current": 0,
+          "progress": 0,
+          "owner": "Marvin Guerra",
+          "status": "in_progress",
+          "target_date": "2026-12-31",
+          "linked_projects": [
+            "P15",
+            "P16",
+            "P17",
+            "P18",
+            "P19",
+            "P20"
+          ]
+        },
+        {
+          "id": "DKR32",
+          "company_kr_id": "KR2",
+          "department": "Operations",
+          "description": "70% Hired on time",
+          "detail": "Percentage of open roles that were filled within the pre-defined target timeframe",
+          "metric": "70% Hired on time",
+          "metric_type": "count",
+          "baseline": 0,
+          "target": 70,
+          "current": 0,
+          "progress": 0,
+          "owner": "Emily Pallin",
+          "status": "in_progress",
+          "target_date": "2026-12-31",
+          "linked_projects": []
+        },
+        {
+          "id": "DKR33",
+          "company_kr_id": "KR2",
+          "department": "Operations",
+          "description": "5% attrition rate",
+          "detail": "Percentage of employees who left the organization (voluntary or involuntary) during a specific period",
+          "metric": "5% attrition rate",
+          "metric_type": "count",
+          "baseline": 0,
+          "target": 5,
+          "current": 0,
+          "progress": 0,
+          "owner": "Emily Pallin",
+          "status": "in_progress",
+          "target_date": "2026-12-31",
+          "linked_projects": [
+            "P64",
+            "P65",
+            "P66",
+            "P67",
+            "P68",
+            "P69",
+            "P70"
+          ]
+        },
+        {
+          "id": "DKR37",
+          "company_kr_id": "KR2",
+          "department": "Operations",
+          "description": "No department key results",
+          "detail": "No department key results were attributed to company key result by department leader",
+          "metric": "No department key results",
+          "metric_type": "count",
+          "baseline": 0,
+          "target": 1,
+          "current": 0,
+          "progress": 0,
+          "owner": "Ailis Burpee",
+          "status": "in_progress",
+          "target_date": "2026-12-31",
+          "linked_projects": [
+            "P38",
+            "P39",
+            "P44",
+            "P45",
+            "P46",
+            "P47"
+          ]
+        },
+        {
+          "id": "DKR38",
+          "company_kr_id": "KR2",
+          "department": "Finance",
+          "description": "80% org forecast accuracy",
+          "detail": "An 80%+ accuracy rate indicates that our actual performance is closely aligned with our predictions. This gives leadership the confidence to make strategic long-term commitments, knowing that our budget and resource projections are dependable.",
+          "metric": "80% org forecast accuracy",
+          "metric_type": "count",
+          "baseline": 0,
+          "target": 80,
+          "current": 0,
+          "progress": 0,
+          "owner": "Doris Zhou",
+          "status": "in_progress",
+          "target_date": "2026-12-31",
+          "linked_projects": [
+            "P21",
+            "P22",
+            "P23",
+            "P30",
+            "P31"
+          ]
+        },
+        {
+          "id": "DKR40",
+          "company_kr_id": "KR2",
+          "department": "Finance",
+          "description": "25% bad debt",
+          "detail": "It suggests the % of expected revenue that does not materialize and can cause cash flow constraints.",
+          "metric": "25% bad debt",
+          "metric_type": "count",
+          "baseline": 0,
+          "target": 25,
+          "current": 0,
+          "progress": 0,
+          "owner": "Samantha Palmer",
+          "status": "in_progress",
+          "target_date": "2026-12-31",
+          "linked_projects": []
+        },
+        {
+          "id": "DKR43",
+          "company_kr_id": "KR2",
+          "department": "Customer",
+          "description": "$40k ARR",
+          "detail": "This tracks the total value of new services-based revenue added within the period, specifically for mid market customers",
+          "metric": "$40k ARR",
+          "metric_type": "currency",
+          "baseline": 0,
+          "target": 40,
+          "current": 0,
+          "progress": 0,
+          "owner": "Tami Tande",
+          "status": "in_progress",
+          "target_date": "2026-12-31",
+          "linked_projects": [
+            "P4",
+            "P7"
+          ]
+        },
+        {
+          "id": "DKR45",
+          "company_kr_id": "KR2",
+          "department": "Engineering",
+          "description": "Product quality [TBD]",
+          "detail": "",
+          "metric": "Product quality [TBD]",
+          "metric_type": "count",
+          "baseline": 0,
+          "target": 1,
+          "current": 0,
+          "progress": 0,
+          "owner": "Marvin Guerra",
+          "status": "in_progress",
+          "target_date": "2026-12-31",
+          "linked_projects": [
+            "P15",
+            "P16",
+            "P17",
+            "P18",
+            "P19",
+            "P20"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "KR3",
+      "objective_id": "O2",
+      "description": "20 Active Weekly Users with 2+ months usage",
+      "detail": "Enlist at least 20 active users for new innovation product with high utilization for product feature and demand validation",
+      "metric": "20 Active Weekly Users with 2+ months usage",
+      "metric_type": "count",
+      "baseline": 0,
+      "target": 20,
+      "current": 0,
+      "progress": 0,
+      "owner": "Tamar Shor",
+      "status": "in_progress",
+      "target_date": "2026-09-30",
+      "departmental_key_results": [
+        {
+          "id": "DKR6",
+          "company_kr_id": "KR3",
+          "department": "Revenue",
+          "description": "20 Active Weekly Users with 2+ months usage",
+          "detail": "Attract and retain 20+ active users through a combination of value positioning, customer education and case studies",
+          "metric": "20 Active Weekly Users with 2+ months usage",
+          "metric_type": "count",
+          "baseline": 0,
+          "target": 20,
+          "current": 0,
+          "progress": 0,
+          "owner": "Owen Bitas",
+          "status": "in_progress",
+          "target_date": "2026-09-30",
+          "linked_projects": []
+        },
+        {
+          "id": "DKR24",
+          "company_kr_id": "KR3",
+          "department": "Product",
+          "description": "MVP launch",
+          "detail": "SRO product launch by AI2 team",
+          "metric": "MVP launch",
+          "metric_type": "count",
+          "baseline": 0,
+          "target": 1,
+          "current": 0,
+          "progress": 0,
+          "owner": "Tamar Shor",
+          "status": "in_progress",
+          "target_date": "2026-10-01",
+          "linked_projects": [
+            "P94",
+            "P95",
+            "P96",
+            "P97",
+            "P102"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "KR4",
+      "objective_id": "O2",
+      "description": "1000 Waitlisted Leads",
+      "detail": "Maintain healthy pipeline with 200+ target ICP participants to generate product userbase",
+      "metric": "1000 Waitlisted Leads",
+      "metric_type": "count",
+      "baseline": 0,
+      "target": 1000,
+      "current": 0,
+      "progress": 0,
+      "owner": "Sam Sorbo",
+      "status": "in_progress",
+      "target_date": "2026-12-31",
+      "departmental_key_results": [
+        {
+          "id": "DKR7",
+          "company_kr_id": "KR4",
+          "department": "Revenue",
+          "description": "1000 Waitlisted Leads - 200 level ICP fit sign ups",
+          "detail": "Validate positioning and messaging to recruit waitlisted leads for SRO",
+          "metric": "1000 Waitlisted Leads - 200 level ICP fit sign ups",
+          "metric_type": "count",
+          "baseline": 0,
+          "target": 1000,
+          "current": 0,
+          "progress": 0,
+          "owner": "Owen Bitas",
+          "status": "in_progress",
+          "target_date": "2026-09-30",
+          "linked_projects": [
+            "P54",
+            "P55",
+            "P58"
+          ]
+        },
+        {
+          "id": "DKR16",
+          "company_kr_id": "KR4",
+          "department": "Revenue",
+          "description": "No department key results",
+          "detail": "No department key results were attributed to company key result by department leader",
+          "metric": "No department key results",
+          "metric_type": "count",
+          "baseline": 0,
+          "target": 1,
+          "current": 0,
+          "progress": 0,
+          "owner": "Sam Sorbo",
+          "status": "in_progress",
+          "target_date": "2026-12-31",
+          "linked_projects": []
+        },
+        {
+          "id": "DKR17",
+          "company_kr_id": "KR4",
+          "department": "Revenue",
+          "description": "No department key results",
+          "detail": "No department key results were attributed to company key result by department leader",
+          "metric": "No department key results",
+          "metric_type": "count",
+          "baseline": 0,
+          "target": 1,
+          "current": 0,
+          "progress": 0,
+          "owner": "Ryan Husk",
+          "status": "in_progress",
+          "target_date": "2026-12-31",
+          "linked_projects": [
+            "P93",
+            "P100",
+            "P105",
+            "P107",
+            "P108"
+          ]
+        },
+        {
+          "id": "DKR26",
+          "company_kr_id": "KR4",
+          "department": "Engineering",
+          "description": "[Placeholder for ENG]",
+          "detail": "[Placeholder for ENG]",
+          "metric": "[Placeholder for ENG]",
+          "metric_type": "count",
+          "baseline": 0,
+          "target": 1,
+          "current": 0,
+          "progress": 0,
+          "owner": "Marvin Guerra",
+          "status": "in_progress",
+          "target_date": "2026-12-31",
+          "linked_projects": [
+            "P11",
+            "P12",
+            "P13",
+            "P14"
+          ]
+        },
+        {
+          "id": "DKR41",
+          "company_kr_id": "KR4",
+          "department": "Finance",
+          "description": "No department key results",
+          "detail": "No department key results were attributed to company key result by department leader",
+          "metric": "No department key results",
+          "metric_type": "count",
+          "baseline": 0,
+          "target": 1,
+          "current": 0,
+          "progress": 0,
+          "owner": "Doris Zhou",
+          "status": "in_progress",
+          "target_date": "2026-12-31",
+          "linked_projects": [
+            "P24",
+            "P25",
+            "P26",
+            "P27",
+            "P28",
+            "P29",
+            "P32"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "KR5",
+      "objective_id": "O2",
+      "description": "2-4 ROI case studies",
+      "detail": "PMM led case studies to (1) increase feature and product adoption for existing product users, and (2) improving waitlist to user conversion",
+      "metric": "2-4 ROI case studies",
+      "metric_type": "count",
+      "baseline": 0,
+      "target": 2,
+      "current": 0,
+      "progress": 0,
+      "owner": "Sam Sorbo",
+      "status": "in_progress",
+      "target_date": "2026-12-31",
+      "departmental_key_results": [
+        {
+          "id": "DKR8",
+          "company_kr_id": "KR5",
+          "department": "Revenue",
+          "description": "2-4 ROI case studies",
+          "detail": "PMM led case studies to (1) increase feature and product adoption for existing product users, and (2) improving waitlist to user conversion with product unlocks",
+          "metric": "2-4 ROI case studies",
+          "metric_type": "count",
+          "baseline": 0,
+          "target": 2,
+          "current": 0,
+          "progress": 0,
+          "owner": "Owen Bitas",
+          "status": "in_progress",
+          "target_date": "2026-10-31",
+          "linked_projects": [
+            "P54",
+            "P55",
+            "P58"
+          ]
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "P1",
+      "name": "Stabilize and Scale the CSM Organization by Segment",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Customer",
+      "lead": "Tami Tande",
+      "team_members": [
+        "Osha Kondori"
+      ],
+      "start_date": "2026-01-05",
+      "end_date": "2026-12-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_customer_customer_success_p1",
+          "name": "Customer -Customer Success",
+          "project_id": "P1",
+          "department": "Customer",
+          "member_ids": [
+            "Tami Tande",
+            "Osha Kondori",
+            "Shannon Howell",
+            "Lee Singer"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P2",
+      "name": "Implement a scaled CS tool",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Customer",
+      "lead": "Tami Tande",
+      "team_members": [],
+      "start_date": "2026-01-05",
+      "end_date": "2026-01-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_customer_customer_success_p2",
+          "name": "Customer -Customer Success",
+          "project_id": "P2",
+          "department": "Customer",
+          "member_ids": [
+            "Tami Tande",
+            "Osha Kondori",
+            "Shannon Howell",
+            "Lee Singer"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P3",
+      "name": "Validate the CSM capacity model",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Customer",
+      "lead": "Tami Tande",
+      "team_members": [],
+      "start_date": "2026-03-02",
+      "end_date": "2026-05-29",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": ""
+    },
+    {
+      "id": "P4",
+      "name": "Launch Full Service Offering 1",
+      "drives_krs": [
+        "KR2",
+        "KR1"
+      ],
+      "department": "Customer",
+      "lead": "Tami Tande",
+      "team_members": [
+        "Aseem Goel"
+      ],
+      "start_date": "2026-02-02",
+      "end_date": "2026-09-04",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_customer_expansion_p4",
+          "name": "Customer - Expansion",
+          "project_id": "P4",
+          "department": "Customer",
+          "member_ids": [
+            "Tami Tande",
+            "Aseem Goel"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P5",
+      "name": "Create cap table admin efficiencies",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Customer",
+      "lead": "Tami Tande",
+      "team_members": [
+        "Aaron Yeung"
+      ],
+      "start_date": "2026-06-01",
+      "end_date": "2026-12-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_customer_enablement_p5",
+          "name": "Customer - Enablement",
+          "project_id": "P5",
+          "department": "Customer",
+          "member_ids": [
+            "Tami Tande",
+            "Aaron Yeung"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P6",
+      "name": "Create processes/workflows that support high volume service requests from internal and external sources",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Customer",
+      "lead": "Tami Tande",
+      "team_members": [
+        "Aaron Yeung"
+      ],
+      "start_date": "2026-01-05",
+      "end_date": "2026-01-30",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_customer_enablement_p6",
+          "name": "Customer - Enablement",
+          "project_id": "P6",
+          "department": "Customer",
+          "member_ids": [
+            "Tami Tande",
+            "Aaron Yeung"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P7",
+      "name": "Launch Full Service Offering 2",
+      "drives_krs": [
+        "KR2",
+        "KR1"
+      ],
+      "department": "Customer",
+      "lead": "Tami Tande",
+      "team_members": [
+        "Aseem Goel"
+      ],
+      "start_date": "2026-08-03",
+      "end_date": "2026-12-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_customer_expansion_p7",
+          "name": "Customer - Expansion",
+          "project_id": "P7",
+          "department": "Customer",
+          "member_ids": [
+            "Tami Tande",
+            "Aseem Goel"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P8",
+      "name": "Create service team headcount forecast model",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Customer",
+      "lead": "Tami Tande",
+      "team_members": [],
+      "start_date": "2026-01-05",
+      "end_date": "2026-01-16",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": ""
+    },
+    {
+      "id": "P9",
+      "name": "Validate and operationalize Support capacity model to stabilize headcount and coverage",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Customer",
+      "lead": "Tami Tande",
+      "team_members": [],
+      "start_date": "2026-03-02",
+      "end_date": "2026-05-29",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": ""
+    },
+    {
+      "id": "P10",
+      "name": "Sunset Transfer Agent Service",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Customer",
+      "lead": "Tami Tande",
+      "team_members": [
+        "Osha Kondori",
+        "Morgan Munger"
+      ],
+      "start_date": "2026-01-05",
+      "end_date": "2026-01-09",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_customer_customer_success_p10",
+          "name": "Customer -Customer Success",
+          "project_id": "P10",
+          "department": "Customer",
+          "member_ids": [
+            "Tami Tande",
+            "Osha Kondori",
+            "Shannon Howell",
+            "Lee Singer"
+          ]
+        },
+        {
+          "id": "T_customer_customer_support_p10",
+          "name": "Customer - Customer Support",
+          "project_id": "P10",
+          "department": "Customer",
+          "member_ids": [
+            "Tami Tande",
+            "Morgan Munger"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P11",
+      "name": "Build Resource Optimization V1 Product",
+      "drives_krs": [
+        "KR4"
+      ],
+      "department": "Engineering",
+      "lead": "Marvin Guerra",
+      "team_members": [],
+      "start_date": "2025-12-01",
+      "end_date": "2026-05-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_ai2_sro_p11",
+          "name": "AI2 (SRO)",
+          "project_id": "P11",
+          "department": "Engineering",
+          "member_ids": [
+            "Bachir Boumhaout",
+            "Kshitij Gupta",
+            "Marvin Guerra",
+            "Tamar Shor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P12",
+      "name": "Build Resource Optimization  V2 Product",
+      "drives_krs": [
+        "KR4"
+      ],
+      "department": "Engineering",
+      "lead": "Marvin Guerra",
+      "team_members": [],
+      "start_date": "2026-06-01",
+      "end_date": "2026-09-30",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_ai2_sro_p12",
+          "name": "AI2 (SRO)",
+          "project_id": "P12",
+          "department": "Engineering",
+          "member_ids": [
+            "Bachir Boumhaout",
+            "Kshitij Gupta",
+            "Marvin Guerra",
+            "Tamar Shor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P13",
+      "name": "Build AI-Equity-Product (Pulley Conversational AI)",
+      "drives_krs": [
+        "KR4"
+      ],
+      "department": "Engineering",
+      "lead": "Marvin Guerra",
+      "team_members": [],
+      "start_date": "2026-01-01",
+      "end_date": "2026-03-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_ai1_equity_intelligence_p13",
+          "name": "AI1 (Equity Intelligence)",
+          "project_id": "P13",
+          "department": "Engineering",
+          "member_ids": [
+            "Bachir Boumhaout",
+            "Marvin Guerra",
+            "Tamar Shor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P14",
+      "name": "Drive Unified AI Platform across Equity-AI and V1/V2",
+      "drives_krs": [
+        "KR4"
+      ],
+      "department": "Engineering",
+      "lead": "Marvin Guerra",
+      "team_members": [],
+      "start_date": "2025-11-10",
+      "end_date": "2026-03-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_ai2_sro_p14",
+          "name": "AI2 (SRO)",
+          "project_id": "P14",
+          "department": "Engineering",
+          "member_ids": [
+            "Bachir Boumhaout",
+            "Kshitij Gupta",
+            "Marvin Guerra",
+            "Tamar Shor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P15",
+      "name": "Deliver Top Platform Initiatives to Optimize Fit & Increase Quality for target Growth Stage Customers",
+      "drives_krs": [
+        "KR2"
+      ],
+      "department": "Engineering",
+      "lead": "Marvin Guerra",
+      "team_members": [],
+      "start_date": "2026-01-06",
+      "end_date": "2026-06-30",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_platform_p15",
+          "name": "Platform",
+          "project_id": "P15",
+          "department": "Engineering",
+          "member_ids": [
+            "Marvin Guerra",
+            "Tamar Shor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P16",
+      "name": "Establish Product Analytics for Detailed Visibility Across Products",
+      "drives_krs": [
+        "KR2"
+      ],
+      "department": "Engineering",
+      "lead": "Marvin Guerra",
+      "team_members": [],
+      "start_date": "2025-11-18",
+      "end_date": "2026-03-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_platform_p16",
+          "name": "Platform",
+          "project_id": "P16",
+          "department": "Engineering",
+          "member_ids": [
+            "Marvin Guerra",
+            "Tamar Shor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P17",
+      "name": "Create a Partner Public API",
+      "drives_krs": [
+        "KR2"
+      ],
+      "department": "Engineering",
+      "lead": "Marvin Guerra",
+      "team_members": [],
+      "start_date": "2026-01-05",
+      "end_date": "2026-11-03",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_platform_p17",
+          "name": "Platform",
+          "project_id": "P17",
+          "department": "Engineering",
+          "member_ids": [
+            "Marvin Guerra",
+            "Tamar Shor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P18",
+      "name": "Sunset and transition crypto customers while preserving trust",
+      "drives_krs": [
+        "KR2"
+      ],
+      "department": "Engineering",
+      "lead": "Marvin Guerra",
+      "team_members": [],
+      "start_date": "2025-12-01",
+      "end_date": "2026-06-01",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_platform_p18",
+          "name": "Platform",
+          "project_id": "P18",
+          "department": "Engineering",
+          "member_ids": [
+            "Marvin Guerra",
+            "Tamar Shor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P19",
+      "name": "Separate Auth Service",
+      "drives_krs": [
+        "KR2"
+      ],
+      "department": "Engineering",
+      "lead": "Marvin Guerra",
+      "team_members": [],
+      "start_date": "2026-01-01",
+      "end_date": "2026-04-30",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_platform_p19",
+          "name": "Platform",
+          "project_id": "P19",
+          "department": "Engineering",
+          "member_ids": [
+            "Marvin Guerra",
+            "Tamar Shor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P20",
+      "name": "Reduce adminify editing needs and move to productized, auditable flows",
+      "drives_krs": [
+        "KR2"
+      ],
+      "department": "Engineering",
+      "lead": "Marvin Guerra",
+      "team_members": [],
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-27",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_platform_p20",
+          "name": "Platform",
+          "project_id": "P20",
+          "department": "Engineering",
+          "member_ids": [
+            "Marvin Guerra",
+            "Tamar Shor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P21",
+      "name": "Drive COGS and cost analysis for V1 Product",
+      "drives_krs": [
+        "KR2"
+      ],
+      "department": "Finance",
+      "lead": "Doris Zhou",
+      "team_members": [
+        "Samantha Palmer"
+      ],
+      "start_date": "2026-04-01",
+      "end_date": "2026-04-22",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_strategic_finance_p21",
+          "name": "Strategic Finance",
+          "project_id": "P21",
+          "department": "Finance",
+          "member_ids": [
+            "Doris Zhou"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P22",
+      "name": "Drive COGS & cost analysis for V2 Product",
+      "drives_krs": [
+        "KR2"
+      ],
+      "department": "Finance",
+      "lead": "Doris Zhou",
+      "team_members": [
+        "Samantha Palmer"
+      ],
+      "start_date": "2026-04-01",
+      "end_date": "2026-04-22",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_strategic_finance_p22",
+          "name": "Strategic Finance",
+          "project_id": "P22",
+          "department": "Finance",
+          "member_ids": [
+            "Doris Zhou"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P23",
+      "name": "Drive COGS and cost analysis for AI-Equity-Product",
+      "drives_krs": [
+        "KR2"
+      ],
+      "department": "Finance",
+      "lead": "Doris Zhou",
+      "team_members": [
+        "Samantha Palmer"
+      ],
+      "start_date": "2026-01-01",
+      "end_date": "2026-01-22",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_strategic_finance_p23",
+          "name": "Strategic Finance",
+          "project_id": "P23",
+          "department": "Finance",
+          "member_ids": [
+            "Doris Zhou"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P24",
+      "name": "Build bottoms up revenue forecast by new segmentation and packaging",
+      "drives_krs": [
+        "KR4"
+      ],
+      "department": "Finance",
+      "lead": "Doris Zhou",
+      "team_members": [
+        "Samantha Palmer"
+      ],
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-26",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_strategic_finance_p24",
+          "name": "Strategic Finance",
+          "project_id": "P24",
+          "department": "Finance",
+          "member_ids": [
+            "Doris Zhou"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P25",
+      "name": "Re-cut our revenue recognition by new segmentation and packaging",
+      "drives_krs": [
+        "KR4"
+      ],
+      "department": "Finance",
+      "lead": "Doris Zhou",
+      "team_members": [
+        "Samantha Palmer"
+      ],
+      "start_date": "2026-06-01",
+      "end_date": "2026-03-27",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_strategic_finance_p25",
+          "name": "Strategic Finance",
+          "project_id": "P25",
+          "department": "Finance",
+          "member_ids": [
+            "Doris Zhou"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P26",
+      "name": "Build customer retention and expansion model based on deep-dive retention analysis",
+      "drives_krs": [
+        "KR4"
+      ],
+      "department": "Finance",
+      "lead": "Doris Zhou",
+      "team_members": [
+        "Samantha Palmer"
+      ],
+      "start_date": "2026-07-01",
+      "end_date": "2026-07-29",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_strategic_finance_p26",
+          "name": "Strategic Finance",
+          "project_id": "P26",
+          "department": "Finance",
+          "member_ids": [
+            "Doris Zhou"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P27",
+      "name": "Cohort analysis by segmentation or packaging",
+      "drives_krs": [
+        "KR4"
+      ],
+      "department": "Finance",
+      "lead": "Doris Zhou",
+      "team_members": [
+        "Samantha Palmer"
+      ],
+      "start_date": "2026-05-04",
+      "end_date": "2026-05-29",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_strategic_finance_p27",
+          "name": "Strategic Finance",
+          "project_id": "P27",
+          "department": "Finance",
+          "member_ids": [
+            "Doris Zhou"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P28",
+      "name": "Realign GTM efficiency model to new segmentation and packaging",
+      "drives_krs": [
+        "KR4"
+      ],
+      "department": "Finance",
+      "lead": "Doris Zhou",
+      "team_members": [
+        "Samantha Palmer"
+      ],
+      "start_date": "2026-02-01",
+      "end_date": "2026-02-22",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_strategic_finance_p28",
+          "name": "Strategic Finance",
+          "project_id": "P28",
+          "department": "Finance",
+          "member_ids": [
+            "Doris Zhou"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P29",
+      "name": "Build unit economics model for new segmentation and packaging",
+      "drives_krs": [
+        "KR4"
+      ],
+      "department": "Finance",
+      "lead": "Doris Zhou",
+      "team_members": [
+        "Samantha Palmer"
+      ],
+      "start_date": "2026-02-01",
+      "end_date": "2026-03-01",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_strategic_finance_p29",
+          "name": "Strategic Finance",
+          "project_id": "P29",
+          "department": "Finance",
+          "member_ids": [
+            "Doris Zhou"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P30",
+      "name": "Build services margin model",
+      "drives_krs": [
+        "KR2"
+      ],
+      "department": "Finance",
+      "lead": "Doris Zhou",
+      "team_members": [
+        "Samantha Palmer"
+      ],
+      "start_date": "2026-02-01",
+      "end_date": "2026-03-01",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_strategic_finance_p30",
+          "name": "Strategic Finance",
+          "project_id": "P30",
+          "department": "Finance",
+          "member_ids": [
+            "Doris Zhou"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P31",
+      "name": "Build bottoms up services revenue forecast",
+      "drives_krs": [
+        "KR2"
+      ],
+      "department": "Finance",
+      "lead": "Doris Zhou",
+      "team_members": [
+        "Samantha Palmer"
+      ],
+      "start_date": "2026-02-01",
+      "end_date": "2026-03-01",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_strategic_finance_p31",
+          "name": "Strategic Finance",
+          "project_id": "P31",
+          "department": "Finance",
+          "member_ids": [
+            "Doris Zhou"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P32",
+      "name": "Realign ARR worksheet to new segmentation and establish our baseline Dec 2025 starting point",
+      "drives_krs": [
+        "KR4"
+      ],
+      "department": "Finance",
+      "lead": "Doris Zhou",
+      "team_members": [
+        "Samantha Palmer"
+      ],
+      "start_date": "2026-05-01",
+      "end_date": "2026-05-29",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_strategic_finance_p32",
+          "name": "Strategic Finance",
+          "project_id": "P32",
+          "department": "Finance",
+          "member_ids": [
+            "Doris Zhou"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P33",
+      "name": "Operationalize Org budgets and tracking",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Finance",
+      "lead": "Doris Zhou",
+      "team_members": [
+        "Samantha Palmer"
+      ],
+      "start_date": "2026-01-05",
+      "end_date": "2026-01-16",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_strategic_finance_p33",
+          "name": "Strategic Finance",
+          "project_id": "P33",
+          "department": "Finance",
+          "member_ids": [
+            "Doris Zhou"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P34",
+      "name": "Drive IT & Security aspects for V1 Product (3P vendors, security..)",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Operations",
+      "lead": "Ailis Burpee",
+      "team_members": [
+        "Brandon Green"
+      ],
+      "start_date": "2026-01-05",
+      "end_date": "2026-12-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_it_p34",
+          "name": "IT",
+          "project_id": "P34",
+          "department": "Operations",
+          "member_ids": [
+            "Ailis Burpee",
+            "Brandon Green"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P35",
+      "name": "Drive IT & Security aspects for V2 Product (3P vendors, security..)",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Operations",
+      "lead": "Ailis Burpee",
+      "team_members": [
+        "Brandon Green"
+      ],
+      "start_date": "2026-01-05",
+      "end_date": "2026-12-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_it_p35",
+          "name": "IT",
+          "project_id": "P35",
+          "department": "Operations",
+          "member_ids": [
+            "Ailis Burpee",
+            "Brandon Green"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P36",
+      "name": "Drive IT & Security aspects for AI-Equity-Product (3P vendors, security..)",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Operations",
+      "lead": "Ailis Burpee",
+      "team_members": [
+        "Brandon Green"
+      ],
+      "start_date": "2026-01-05",
+      "end_date": "2026-12-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_it_p36",
+          "name": "IT",
+          "project_id": "P36",
+          "department": "Operations",
+          "member_ids": [
+            "Ailis Burpee",
+            "Brandon Green"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P37",
+      "name": "Identity & Access Management Review",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Operations",
+      "lead": "Ailis Burpee",
+      "team_members": [
+        "Brandon Green"
+      ],
+      "start_date": "2026-04-06",
+      "end_date": "2026-05-01",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_it_p37",
+          "name": "IT",
+          "project_id": "P37",
+          "department": "Operations",
+          "member_ids": [
+            "Ailis Burpee",
+            "Brandon Green"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P38",
+      "name": "Unified Endpoint Management / MDM Program",
+      "drives_krs": [
+        "KR2"
+      ],
+      "department": "Operations",
+      "lead": "Ailis Burpee",
+      "team_members": [
+        "Brandon Green"
+      ],
+      "start_date": "2026-01-05",
+      "end_date": "2026-03-20",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_it_p38",
+          "name": "IT",
+          "project_id": "P38",
+          "department": "Operations",
+          "member_ids": [
+            "Ailis Burpee",
+            "Brandon Green"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P39",
+      "name": "SaaS Management - Configure and Deploy",
+      "drives_krs": [
+        "KR2"
+      ],
+      "department": "Operations",
+      "lead": "Ailis Burpee",
+      "team_members": [
+        "Brandon Green"
+      ],
+      "start_date": "2026-01-05",
+      "end_date": "2026-02-27",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_it_p39",
+          "name": "IT",
+          "project_id": "P39",
+          "department": "Operations",
+          "member_ids": [
+            "Ailis Burpee",
+            "Brandon Green"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P40",
+      "name": "Compliance Program Maturity (SOC1 + Other)",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Operations",
+      "lead": "Ailis Burpee",
+      "team_members": [
+        "Brandon Green"
+      ],
+      "start_date": "2026-07-06",
+      "end_date": "2026-09-25",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_it_p40",
+          "name": "IT",
+          "project_id": "P40",
+          "department": "Operations",
+          "member_ids": [
+            "Ailis Burpee",
+            "Brandon Green"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P41",
+      "name": "Privacy Program Stability (GDPR + SOC2)",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Operations",
+      "lead": "Ailis Burpee",
+      "team_members": [
+        "Brandon Green"
+      ],
+      "start_date": "2026-01-05",
+      "end_date": "2026-12-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_it_p41",
+          "name": "IT",
+          "project_id": "P41",
+          "department": "Operations",
+          "member_ids": [
+            "Ailis Burpee",
+            "Brandon Green"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P42",
+      "name": "Helpdesk + Onboarding / Offboarding Stability",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Operations",
+      "lead": "Ailis Burpee",
+      "team_members": [
+        "Brandon Green"
+      ],
+      "start_date": "2026-01-05",
+      "end_date": "2026-12-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_it_p42",
+          "name": "IT",
+          "project_id": "P42",
+          "department": "Operations",
+          "member_ids": [
+            "Ailis Burpee",
+            "Brandon Green"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P43",
+      "name": "Phsyical Laptop Inventory Management",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Operations",
+      "lead": "Ailis Burpee",
+      "team_members": [
+        "Brandon Green"
+      ],
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_it_p43",
+          "name": "IT",
+          "project_id": "P43",
+          "department": "Operations",
+          "member_ids": [
+            "Ailis Burpee",
+            "Brandon Green"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P44",
+      "name": "Drive Legal/Compliance aspects for V1 Product (privacy, 3P licensing, Pulley licensing…)",
+      "drives_krs": [
+        "KR2"
+      ],
+      "department": "Operations",
+      "lead": "Ailis Burpee",
+      "team_members": [],
+      "start_date": "2026-01-05",
+      "end_date": "2026-12-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_legal_p44",
+          "name": "Legal",
+          "project_id": "P44",
+          "department": "Operations",
+          "member_ids": [
+            "Ailis Burpee"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P45",
+      "name": "Drive Legal/Compliance aspects for V2 Product (privacy, 3P licensing, Pulley licensing…)",
+      "drives_krs": [
+        "KR2"
+      ],
+      "department": "Operations",
+      "lead": "Ailis Burpee",
+      "team_members": [],
+      "start_date": "2026-01-05",
+      "end_date": "2026-12-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_legal_p45",
+          "name": "Legal",
+          "project_id": "P45",
+          "department": "Operations",
+          "member_ids": [
+            "Ailis Burpee"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P46",
+      "name": "Drive Legal/Compliance aspects for AI-Equity-Product (privacy, 3P licensing, Pulley licensing…)",
+      "drives_krs": [
+        "KR2"
+      ],
+      "department": "Operations",
+      "lead": "Ailis Burpee",
+      "team_members": [],
+      "start_date": "2026-01-05",
+      "end_date": "2026-12-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_legal_p46",
+          "name": "Legal",
+          "project_id": "P46",
+          "department": "Operations",
+          "member_ids": [
+            "Ailis Burpee"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P47",
+      "name": "Governance Controls",
+      "drives_krs": [
+        "KR2"
+      ],
+      "department": "Operations",
+      "lead": "Ailis Burpee",
+      "team_members": [],
+      "start_date": "2026-01-05",
+      "end_date": "2026-12-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_legal_p47",
+          "name": "Legal",
+          "project_id": "P47",
+          "department": "Operations",
+          "member_ids": [
+            "Ailis Burpee"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P48",
+      "name": "Marketing project placeholder for project [Deliver Top 3-4 App Initiatives / Quarter to Optimize Fit for target Growth Stage Customers]",
+      "drives_krs": [
+        "KR2"
+      ],
+      "department": "Revenue",
+      "lead": "Sam Sorbo",
+      "team_members": [
+        "Owen Bitas"
+      ],
+      "start_date": "2026-02-02",
+      "end_date": "2026-12-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "…",
+      "teams": [
+        {
+          "id": "T_marketing_pmm_p48",
+          "name": "Marketing - PMM",
+          "project_id": "P48",
+          "department": "Revenue",
+          "member_ids": [
+            "Owen Bitas",
+            "TBH-PMM",
+            "Sam Sorbo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P49",
+      "name": "Create one flagship piece of pillar content (Annual report, state of…, etc.)",
+      "drives_krs": [
+        "KR2"
+      ],
+      "department": "Revenue",
+      "lead": "Sam Sorbo",
+      "team_members": [
+        "Owen Bitas"
+      ],
+      "start_date": "2026-03-01",
+      "end_date": "2026-04-30",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "…",
+      "teams": [
+        {
+          "id": "T_marketing_pmm_p49",
+          "name": "Marketing - PMM",
+          "project_id": "P49",
+          "department": "Revenue",
+          "member_ids": [
+            "Owen Bitas",
+            "TBH-PMM",
+            "Sam Sorbo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P50",
+      "name": "Stand up intake process for Sales requests to support deals [Approved]",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Revenue",
+      "lead": "Sam Sorbo",
+      "team_members": [
+        "Owen Bitas"
+      ],
+      "start_date": "2026-01-05",
+      "end_date": "2026-01-16",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "…",
+      "teams": [
+        {
+          "id": "T_marketing_pmm_p50",
+          "name": "Marketing - PMM",
+          "project_id": "P50",
+          "department": "Revenue",
+          "member_ids": [
+            "Owen Bitas",
+            "TBH-PMM",
+            "Sam Sorbo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P51",
+      "name": "Create an always-on content distribution system to acquire growth-stage equity customers",
+      "drives_krs": [
+        "KR2"
+      ],
+      "department": "Revenue",
+      "lead": "Sam Sorbo",
+      "team_members": [
+        "TBH-Senior Content Strategist"
+      ],
+      "start_date": "2026-06-01",
+      "end_date": "2026-12-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "Sourcing and production of the content alone is not enough to maximize our value.  We need to thoughtfully and proactively find ways to distribute our newly developed content to maximize its impact.",
+      "teams": [
+        {
+          "id": "T_marketing_growth_marketing_p51",
+          "name": "Marketing - Growth Marketing",
+          "project_id": "P51",
+          "department": "Revenue",
+          "member_ids": [
+            "Tony Doucet",
+            "Jeremy Sullivan",
+            "Sydney Burla",
+            "TBH-Senior Content Strategist",
+            "TBH-Lifecycle Marketing Manager",
+            "Sam Sorbo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P52",
+      "name": "Segmentation Framework Definition / Market Mapping",
+      "drives_krs": [
+        "KR2"
+      ],
+      "department": "Revenue",
+      "lead": "Sam Sorbo",
+      "team_members": [
+        "Owen Bitas"
+      ],
+      "start_date": "2026-01-05",
+      "end_date": "2026-02-06",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "…",
+      "teams": [
+        {
+          "id": "T_marketing_pmm_p52",
+          "name": "Marketing - PMM",
+          "project_id": "P52",
+          "department": "Revenue",
+          "member_ids": [
+            "Owen Bitas",
+            "TBH-PMM",
+            "Sam Sorbo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P53",
+      "name": "Launch AI-Equity-Product",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Revenue",
+      "lead": "Sam Sorbo",
+      "team_members": [
+        "Owen Bitas"
+      ],
+      "start_date": "2026-01-05",
+      "end_date": "2026-03-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "…",
+      "teams": [
+        {
+          "id": "T_marketing_pmm_p53",
+          "name": "Marketing - PMM",
+          "project_id": "P53",
+          "department": "Revenue",
+          "member_ids": [
+            "Owen Bitas",
+            "TBH-PMM",
+            "Sam Sorbo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P54",
+      "name": "Launch V2 Product",
+      "drives_krs": [
+        "KR5",
+        "KR4"
+      ],
+      "department": "Revenue",
+      "lead": "Sam Sorbo",
+      "team_members": [
+        "Owen Bitas"
+      ],
+      "start_date": "2026-06-01",
+      "end_date": "2026-12-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "…",
+      "teams": [
+        {
+          "id": "T_marketing_pmm_p54",
+          "name": "Marketing - PMM",
+          "project_id": "P54",
+          "department": "Revenue",
+          "member_ids": [
+            "Owen Bitas",
+            "TBH-PMM",
+            "Sam Sorbo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P55",
+      "name": "Launch V1 Product",
+      "drives_krs": [
+        "KR5",
+        "KR4"
+      ],
+      "department": "Revenue",
+      "lead": "Sam Sorbo",
+      "team_members": [
+        "Owen Bitas"
+      ],
+      "start_date": "2026-01-05",
+      "end_date": "2026-09-30",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "…",
+      "teams": [
+        {
+          "id": "T_marketing_pmm_p55",
+          "name": "Marketing - PMM",
+          "project_id": "P55",
+          "department": "Revenue",
+          "member_ids": [
+            "Owen Bitas",
+            "TBH-PMM",
+            "Sam Sorbo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P56",
+      "name": "Build a customer advocacy program",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Revenue",
+      "lead": "Sam Sorbo",
+      "team_members": [
+        "Owen Bitas"
+      ],
+      "start_date": "2026-01-01",
+      "end_date": "2026-12-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "…",
+      "teams": [
+        {
+          "id": "T_marketing_pmm_p56",
+          "name": "Marketing - PMM",
+          "project_id": "P56",
+          "department": "Revenue",
+          "member_ids": [
+            "Owen Bitas",
+            "TBH-PMM",
+            "Sam Sorbo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P57",
+      "name": "Create standard trigger for comms plan to reach current customer base",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Revenue",
+      "lead": "Sam Sorbo",
+      "team_members": [
+        "Owen Bitas"
+      ],
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-29",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "…",
+      "teams": [
+        {
+          "id": "T_marketing_pmm_p57",
+          "name": "Marketing - PMM",
+          "project_id": "P57",
+          "department": "Revenue",
+          "member_ids": [
+            "Owen Bitas",
+            "TBH-PMM",
+            "Sam Sorbo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P58",
+      "name": "Launch new Solution offering (tier 1 or 2)",
+      "drives_krs": [
+        "KR5",
+        "KR4"
+      ],
+      "department": "Revenue",
+      "lead": "Sam Sorbo",
+      "team_members": [
+        "Owen Bitas"
+      ],
+      "start_date": "2026-09-01",
+      "end_date": "2026-12-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "…",
+      "teams": [
+        {
+          "id": "T_marketing_pmm_p58",
+          "name": "Marketing - PMM",
+          "project_id": "P58",
+          "department": "Revenue",
+          "member_ids": [
+            "Owen Bitas",
+            "TBH-PMM",
+            "Sam Sorbo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P59",
+      "name": "Release and launch service that support growth stage service customers (Service 1)",
+      "drives_krs": [
+        "KR2"
+      ],
+      "department": "Revenue",
+      "lead": "Sam Sorbo",
+      "team_members": [
+        "Owen Bitas"
+      ],
+      "start_date": "2026-03-01",
+      "end_date": "2026-03-06",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "…",
+      "teams": [
+        {
+          "id": "T_marketing_pmm_p59",
+          "name": "Marketing - PMM",
+          "project_id": "P59",
+          "department": "Revenue",
+          "member_ids": [
+            "Owen Bitas",
+            "TBH-PMM",
+            "Sam Sorbo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P60",
+      "name": "Stand up recurring product newsletters (by segment) & provide consistent support for release comms",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Revenue",
+      "lead": "Sam Sorbo",
+      "team_members": [
+        "Owen Bitas"
+      ],
+      "start_date": "2026-01-05",
+      "end_date": "2026-12-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "…",
+      "teams": [
+        {
+          "id": "T_marketing_pmm_p60",
+          "name": "Marketing - PMM",
+          "project_id": "P60",
+          "department": "Revenue",
+          "member_ids": [
+            "Owen Bitas",
+            "TBH-PMM",
+            "Sam Sorbo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P61",
+      "name": "Build a lifecycle marketing program that meaningfully boosts customer retention",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Revenue",
+      "lead": "Sam Sorbo",
+      "team_members": [
+        "TBH-Lifecycle Marketing Manager"
+      ],
+      "start_date": "2026-04-06",
+      "end_date": "2026-07-03",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "Lifecycle marketing is an essential function of any modern marketing efforts, and one of our most effective methods of improving customer retention and customer lifetime value.",
+      "teams": [
+        {
+          "id": "T_marketing_growth_marketing_p61",
+          "name": "Marketing - Growth Marketing",
+          "project_id": "P61",
+          "department": "Revenue",
+          "member_ids": [
+            "Tony Doucet",
+            "Jeremy Sullivan",
+            "Sydney Burla",
+            "TBH-Senior Content Strategist",
+            "TBH-Lifecycle Marketing Manager",
+            "Sam Sorbo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P62",
+      "name": "Research and document expanded buyer personas",
+      "drives_krs": [
+        "KR2"
+      ],
+      "department": "Revenue",
+      "lead": "Sam Sorbo",
+      "team_members": [
+        "Owen Bitas"
+      ],
+      "start_date": "2026-01-05",
+      "end_date": "2026-03-06",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "…",
+      "teams": [
+        {
+          "id": "T_marketing_pmm_p62",
+          "name": "Marketing - PMM",
+          "project_id": "P62",
+          "department": "Revenue",
+          "member_ids": [
+            "Owen Bitas",
+            "TBH-PMM",
+            "Sam Sorbo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P63",
+      "name": "Build a Nurture Strategy for Growth Stage Pipeline Prospects",
+      "drives_krs": [
+        "KR1",
+        "KR2"
+      ],
+      "department": "Revenue",
+      "lead": "Sam Sorbo",
+      "team_members": [
+        "Tony Doucet"
+      ],
+      "start_date": "2026-07-06",
+      "end_date": "2026-10-09",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_marketing_growth_marketing_p63",
+          "name": "Marketing - Growth Marketing",
+          "project_id": "P63",
+          "department": "Revenue",
+          "member_ids": [
+            "Tony Doucet",
+            "Jeremy Sullivan",
+            "Sydney Burla",
+            "TBH-Senior Content Strategist",
+            "TBH-Lifecycle Marketing Manager",
+            "Sam Sorbo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P64",
+      "name": "Track and report on attrition quarterly",
+      "drives_krs": [
+        "KR2"
+      ],
+      "department": "Operations",
+      "lead": "Ailis Burpee",
+      "team_members": [
+        "Emily Pallin"
+      ],
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-27",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_people_p64",
+          "name": "People",
+          "project_id": "P64",
+          "department": "Operations",
+          "member_ids": [
+            "Emily Pallin",
+            "Ailis Burpee"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P65",
+      "name": "Develop a comprehensive compensation philosophy",
+      "drives_krs": [
+        "KR2"
+      ],
+      "department": "Operations",
+      "lead": "Ailis Burpee",
+      "team_members": [
+        "Emily Pallin"
+      ],
+      "start_date": "2026-04-01",
+      "end_date": "2026-04-15",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_people_p65",
+          "name": "People",
+          "project_id": "P65",
+          "department": "Operations",
+          "member_ids": [
+            "Emily Pallin",
+            "Ailis Burpee"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P66",
+      "name": "Launch 1x engagement survey in H1 2026",
+      "drives_krs": [
+        "KR2"
+      ],
+      "department": "Operations",
+      "lead": "Ailis Burpee",
+      "team_members": [
+        "Emily Pallin"
+      ],
+      "start_date": "2026-05-04",
+      "end_date": "2026-05-22",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_people_p66",
+          "name": "People",
+          "project_id": "P66",
+          "department": "Operations",
+          "member_ids": [
+            "Emily Pallin",
+            "Ailis Burpee"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P67",
+      "name": "Launch candidate experience survey in H1 2026",
+      "drives_krs": [
+        "KR2"
+      ],
+      "department": "Operations",
+      "lead": "Ailis Burpee",
+      "team_members": [
+        "Emily Pallin"
+      ],
+      "start_date": "2026-04-01",
+      "end_date": "2026-12-09",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_people_p67",
+          "name": "People",
+          "project_id": "P67",
+          "department": "Operations",
+          "member_ids": [
+            "Emily Pallin",
+            "Ailis Burpee"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P68",
+      "name": "Launch a leadership coaching program by end of Q3 2026 that all LT members participate in",
+      "drives_krs": [
+        "KR2"
+      ],
+      "department": "Operations",
+      "lead": "Ailis Burpee",
+      "team_members": [
+        "Emily Pallin"
+      ],
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_people_p68",
+          "name": "People",
+          "project_id": "P68",
+          "department": "Operations",
+          "member_ids": [
+            "Emily Pallin",
+            "Ailis Burpee"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P69",
+      "name": "Redefine performance management process for 2026 with clear goal setting, continuous feedback",
+      "drives_krs": [
+        "KR2"
+      ],
+      "department": "Operations",
+      "lead": "Ailis Burpee",
+      "team_members": [
+        "Emily Pallin"
+      ],
+      "start_date": "2026-01-01",
+      "end_date": "2026-03-12",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_people_p69",
+          "name": "People",
+          "project_id": "P69",
+          "department": "Operations",
+          "member_ids": [
+            "Emily Pallin",
+            "Ailis Burpee"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P70",
+      "name": "Add a live module on Equity knowledge to onboarding",
+      "drives_krs": [
+        "KR2"
+      ],
+      "department": "Operations",
+      "lead": "Ailis Burpee",
+      "team_members": [
+        "Emily Pallin"
+      ],
+      "start_date": "2026-02-01",
+      "end_date": "2027-01-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_people_p70",
+          "name": "People",
+          "project_id": "P70",
+          "department": "Operations",
+          "member_ids": [
+            "Emily Pallin",
+            "Ailis Burpee"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P71",
+      "name": "Identify significant Product blockers/ accelerators (if any) to top 1-2 channel partnerships",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Revenue",
+      "lead": "Ryan Husk",
+      "team_members": [],
+      "start_date": "2026-01-05",
+      "end_date": "2026-12-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_partnerships_p71",
+          "name": "Partnerships",
+          "project_id": "P71",
+          "department": "Revenue",
+          "member_ids": [
+            "[Future CPM hire]",
+            "Tanaz Amiri",
+            "Ryan Husk"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P72",
+      "name": "Drive Partnership strategy & execution for V1 Product (marketing, sales)",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Revenue",
+      "lead": "Ryan Husk",
+      "team_members": [],
+      "start_date": "2026-01-05",
+      "end_date": "2026-09-25",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_partnerships_p72",
+          "name": "Partnerships",
+          "project_id": "P72",
+          "department": "Revenue",
+          "member_ids": [
+            "[Future CPM hire]",
+            "Tanaz Amiri",
+            "Ryan Husk"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P73",
+      "name": "Drive Partnership strategy & execution for V2 Product (marketing, sales)",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Revenue",
+      "lead": "Ryan Husk",
+      "team_members": [
+        "[Future CPM hire]"
+      ],
+      "start_date": "2026-07-06",
+      "end_date": "2026-12-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_partnerships_p73",
+          "name": "Partnerships",
+          "project_id": "P73",
+          "department": "Revenue",
+          "member_ids": [
+            "[Future CPM hire]",
+            "Tanaz Amiri",
+            "Ryan Husk"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P74",
+      "name": "Drive Partnership strategy & execution for AI-Equity-Product (marketing, sales)",
+      "drives_krs": [
+        "KR2"
+      ],
+      "department": "Revenue",
+      "lead": "Ryan Husk",
+      "team_members": [],
+      "start_date": "2026-04-06",
+      "end_date": "2026-12-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_partnerships_p74",
+          "name": "Partnerships",
+          "project_id": "P74",
+          "department": "Revenue",
+          "member_ids": [
+            "[Future CPM hire]",
+            "Tanaz Amiri",
+            "Ryan Husk"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P75",
+      "name": "Partnership Program Playbook & Templates",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Revenue",
+      "lead": "Ryan Husk",
+      "team_members": [
+        "[Future CPM hire]"
+      ],
+      "start_date": "2026-04-06",
+      "end_date": "2026-12-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_partnerships_p75",
+          "name": "Partnerships",
+          "project_id": "P75",
+          "department": "Revenue",
+          "member_ids": [
+            "[Future CPM hire]",
+            "Tanaz Amiri",
+            "Ryan Husk"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P76",
+      "name": "Partner Identification & Outreach Pipeline",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Revenue",
+      "lead": "Ryan Husk",
+      "team_members": [
+        "[Future CPM hire]"
+      ],
+      "start_date": "2026-01-05",
+      "end_date": "2026-12-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_partnerships_p76",
+          "name": "Partnerships",
+          "project_id": "P76",
+          "department": "Revenue",
+          "member_ids": [
+            "[Future CPM hire]",
+            "Tanaz Amiri",
+            "Ryan Husk"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P77",
+      "name": "Content Partnership Tracking Infrastructure",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Revenue",
+      "lead": "Ryan Husk",
+      "team_members": [
+        "Tanaz Amiri"
+      ],
+      "start_date": "2026-04-06",
+      "end_date": "2026-12-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_partnerships_p77",
+          "name": "Partnerships",
+          "project_id": "P77",
+          "department": "Revenue",
+          "member_ids": [
+            "[Future CPM hire]",
+            "Tanaz Amiri",
+            "Ryan Husk"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P78",
+      "name": "Pilot Content Partnership Campaign",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Revenue",
+      "lead": "Ryan Husk",
+      "team_members": [
+        "Tanaz Amiri"
+      ],
+      "start_date": "2026-01-05",
+      "end_date": "2026-03-27",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_partnerships_p78",
+          "name": "Partnerships",
+          "project_id": "P78",
+          "department": "Revenue",
+          "member_ids": [
+            "[Future CPM hire]",
+            "Tanaz Amiri",
+            "Ryan Husk"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P79",
+      "name": "Partnership Performance Scorecards",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Revenue",
+      "lead": "Ryan Husk",
+      "team_members": [],
+      "start_date": "2026-01-05",
+      "end_date": "2026-03-27",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_partnerships_p79",
+          "name": "Partnerships",
+          "project_id": "P79",
+          "department": "Revenue",
+          "member_ids": [
+            "[Future CPM hire]",
+            "Tanaz Amiri",
+            "Ryan Husk"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P80",
+      "name": "Scale Quarterly Content Partnership Campaigns",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Revenue",
+      "lead": "Ryan Husk",
+      "team_members": [
+        "Tanaz Amiri"
+      ],
+      "start_date": "2026-04-06",
+      "end_date": "2026-12-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_partnerships_p80",
+          "name": "Partnerships",
+          "project_id": "P80",
+          "department": "Revenue",
+          "member_ids": [
+            "[Future CPM hire]",
+            "Tanaz Amiri",
+            "Ryan Husk"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P81",
+      "name": "Launch Partner Success Enablement Program",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Revenue",
+      "lead": "Ryan Husk",
+      "team_members": [],
+      "start_date": "2026-04-06",
+      "end_date": "2026-12-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_partnerships_p81",
+          "name": "Partnerships",
+          "project_id": "P81",
+          "department": "Revenue",
+          "member_ids": [
+            "[Future CPM hire]",
+            "Tanaz Amiri",
+            "Ryan Husk"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P82",
+      "name": "Implement Partner Lead Tracking & Infrastructure",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Revenue",
+      "lead": "Ryan Husk",
+      "team_members": [
+        "Tanaz Amiri"
+      ],
+      "start_date": "2026-04-06",
+      "end_date": "2026-12-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_partnerships_p82",
+          "name": "Partnerships",
+          "project_id": "P82",
+          "department": "Revenue",
+          "member_ids": [
+            "[Future CPM hire]",
+            "Tanaz Amiri",
+            "Ryan Husk"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P83",
+      "name": "Run Channel Partner Pilot Program",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Revenue",
+      "lead": "Ryan Husk",
+      "team_members": [
+        "[Future CPM hire]"
+      ],
+      "start_date": "2026-01-05",
+      "end_date": "2026-05-01",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_partnerships_p83",
+          "name": "Partnerships",
+          "project_id": "P83",
+          "department": "Revenue",
+          "member_ids": [
+            "[Future CPM hire]",
+            "Tanaz Amiri",
+            "Ryan Husk"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P84",
+      "name": "Establish Partner Performance Metrics & Reporting",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Revenue",
+      "lead": "Ryan Husk",
+      "team_members": [],
+      "start_date": "2026-01-05",
+      "end_date": "2026-03-27",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_partnerships_p84",
+          "name": "Partnerships",
+          "project_id": "P84",
+          "department": "Revenue",
+          "member_ids": [
+            "[Future CPM hire]",
+            "Tanaz Amiri",
+            "Ryan Husk"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P85",
+      "name": "Scale and Formalize Channel Partner Program",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Revenue",
+      "lead": "Ryan Husk",
+      "team_members": [
+        "[Future CPM hire]"
+      ],
+      "start_date": "2026-04-06",
+      "end_date": "2026-12-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_partnerships_p85",
+          "name": "Partnerships",
+          "project_id": "P85",
+          "department": "Revenue",
+          "member_ids": [
+            "[Future CPM hire]",
+            "Tanaz Amiri",
+            "Ryan Husk"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P86",
+      "name": "Develop lightweight process to create landing pages for Channel partners.",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Revenue",
+      "lead": "Ryan Husk",
+      "team_members": [
+        "Tanaz Amiri"
+      ],
+      "start_date": "2026-04-06",
+      "end_date": "2026-05-29",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_partnerships_p86",
+          "name": "Partnerships",
+          "project_id": "P86",
+          "department": "Revenue",
+          "member_ids": [
+            "[Future CPM hire]",
+            "Tanaz Amiri",
+            "Ryan Husk"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P87",
+      "name": "Enable law firm channel with product feature support.",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Revenue",
+      "lead": "Ryan Husk",
+      "team_members": [
+        "[Future CPM hire]"
+      ],
+      "start_date": "2026-04-06",
+      "end_date": "2026-12-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "Summary: This project focuses on identifying and addressing key product capabilities that law firms need to effectively refer and onboard clients onto Pulley. The goal is to remove friction points by scoping and implementing lightweight feature changes (e.g. paralegal access, firm dashboards, client onboarding templates) that unlock Pulley usage within legal workflows.\nRationale: Law firms are a high-trust channel partner but face specific product barriers that have blocked adoption. Supporting even basic operational needs can turn law firms into a steady and scalable referral source.",
+      "teams": [
+        {
+          "id": "T_partnerships_p87",
+          "name": "Partnerships",
+          "project_id": "P87",
+          "department": "Revenue",
+          "member_ids": [
+            "[Future CPM hire]",
+            "Tanaz Amiri",
+            "Ryan Husk"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P88",
+      "name": "External enablement/training for Channel Partners.",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Revenue",
+      "lead": "Ryan Husk",
+      "team_members": [],
+      "start_date": "2026-04-06",
+      "end_date": "2026-12-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_partnerships_p88",
+          "name": "Partnerships",
+          "project_id": "P88",
+          "department": "Revenue",
+          "member_ids": [
+            "[Future CPM hire]",
+            "Tanaz Amiri",
+            "Ryan Husk"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P89",
+      "name": "Build a Scalable Content Partnerships Program",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Revenue",
+      "lead": "Ryan Husk",
+      "team_members": [
+        "Tanaz Amiri"
+      ],
+      "start_date": "2026-04-06",
+      "end_date": "2026-09-25",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_partnerships_p89",
+          "name": "Partnerships",
+          "project_id": "P89",
+          "department": "Revenue",
+          "member_ids": [
+            "[Future CPM hire]",
+            "Tanaz Amiri",
+            "Ryan Husk"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P90",
+      "name": "Get the first technology partners building and launching with the new API",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Revenue",
+      "lead": "Ryan Husk",
+      "team_members": [
+        "Tanaz Amiri"
+      ],
+      "start_date": "2026-01-05",
+      "end_date": "2026-06-26",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_partnerships_p90",
+          "name": "Partnerships",
+          "project_id": "P90",
+          "department": "Revenue",
+          "member_ids": [
+            "[Future CPM hire]",
+            "Tanaz Amiri",
+            "Ryan Husk"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P91",
+      "name": "Expand value, deepen technology partner ties",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Revenue",
+      "lead": "Ryan Husk",
+      "team_members": [],
+      "start_date": "2026-09-07",
+      "end_date": "2026-12-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_partnerships_p91",
+          "name": "Partnerships",
+          "project_id": "P91",
+          "department": "Revenue",
+          "member_ids": [
+            "[Future CPM hire]",
+            "Tanaz Amiri",
+            "Ryan Husk"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P92",
+      "name": "Enable technology partner self-service and scale onboarding",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Revenue",
+      "lead": "Ryan Husk",
+      "team_members": [],
+      "start_date": "2026-05-04",
+      "end_date": "2026-08-14",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_partnerships_p92",
+          "name": "Partnerships",
+          "project_id": "P92",
+          "department": "Revenue",
+          "member_ids": [
+            "[Future CPM hire]",
+            "Tanaz Amiri",
+            "Ryan Husk"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P93",
+      "name": "Deliver 1-2 Initiatives solving blockers/ accelerators (if any) to top 1-2 channel partnerships",
+      "drives_krs": [
+        "KR4"
+      ],
+      "department": "Product",
+      "lead": "Tamar Shor",
+      "team_members": [],
+      "start_date": "2026-04-01",
+      "end_date": "2026-09-30",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_product_management_p93",
+          "name": "Product Management",
+          "project_id": "P93",
+          "department": "Product",
+          "member_ids": [
+            "Bachir Boumhaout",
+            "Tamar Shor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P94",
+      "name": "Complete Product Discovery, Go/NoGo, V1 Direction",
+      "drives_krs": [
+        "KR3"
+      ],
+      "department": "Product",
+      "lead": "Tamar Shor",
+      "team_members": [],
+      "start_date": "2026-01-01",
+      "end_date": "2026-01-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_product_management_p94",
+          "name": "Product Management",
+          "project_id": "P94",
+          "department": "Product",
+          "member_ids": [
+            "Bachir Boumhaout",
+            "Tamar Shor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P95",
+      "name": "Complete V1 Reqs and Designs",
+      "drives_krs": [
+        "KR3"
+      ],
+      "department": "Product",
+      "lead": "Tamar Shor",
+      "team_members": [],
+      "start_date": "2026-01-01",
+      "end_date": "2026-04-02",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_product_management_p95",
+          "name": "Product Management",
+          "project_id": "P95",
+          "department": "Product",
+          "member_ids": [
+            "Bachir Boumhaout",
+            "Tamar Shor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P96",
+      "name": "Complete Product Discovery, Go/NoGo, V2 Product Direction",
+      "drives_krs": [
+        "KR3"
+      ],
+      "department": "Product",
+      "lead": "Tamar Shor",
+      "team_members": [],
+      "start_date": "2026-04-01",
+      "end_date": "2026-05-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_product_management_p96",
+          "name": "Product Management",
+          "project_id": "P96",
+          "department": "Product",
+          "member_ids": [
+            "Bachir Boumhaout",
+            "Tamar Shor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P97",
+      "name": "Complete V2 Product Reqs and Designs",
+      "drives_krs": [
+        "KR3"
+      ],
+      "department": "Product",
+      "lead": "Tamar Shor",
+      "team_members": [],
+      "start_date": "2026-07-01",
+      "end_date": "2026-06-30",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_product_management_p97",
+          "name": "Product Management",
+          "project_id": "P97",
+          "department": "Product",
+          "member_ids": [
+            "Bachir Boumhaout",
+            "Tamar Shor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P98",
+      "name": "Deliver Top 3-4 App Initiatives / Quarter to Optimize Fit for target Growth Stage Customers",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Product",
+      "lead": "Tamar Shor",
+      "team_members": [],
+      "start_date": "2026-01-01",
+      "end_date": "2026-12-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_product_management_p98",
+          "name": "Product Management",
+          "project_id": "P98",
+          "department": "Product",
+          "member_ids": [
+            "Bachir Boumhaout",
+            "Tamar Shor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P99",
+      "name": "Refine Process to Account for Retention of Top Growth Stage Customers When Prioritizing Initiatives",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Product",
+      "lead": "Tamar Shor",
+      "team_members": [],
+      "start_date": "2026-04-01",
+      "end_date": "2025-12-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_product_management_p99",
+          "name": "Product Management",
+          "project_id": "P99",
+          "department": "Product",
+          "member_ids": [
+            "Bachir Boumhaout",
+            "Tamar Shor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P100",
+      "name": "Deliver Required Product Changes due to Revised Pricing/Packaging (if any)",
+      "drives_krs": [
+        "KR4"
+      ],
+      "department": "Product",
+      "lead": "Tamar Shor",
+      "team_members": [],
+      "start_date": "2026-01-01",
+      "end_date": "2026-06-30",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_product_management_p100",
+          "name": "Product Management",
+          "project_id": "P100",
+          "department": "Product",
+          "member_ids": [
+            "Bachir Boumhaout",
+            "Tamar Shor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P101",
+      "name": "Deliver 1/Q AI-Native Equity Initiative",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Product",
+      "lead": "Tamar Shor",
+      "team_members": [],
+      "start_date": "2026-01-05",
+      "end_date": "2206-12-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_product_management_p101",
+          "name": "Product Management",
+          "project_id": "P101",
+          "department": "Product",
+          "member_ids": [
+            "Bachir Boumhaout",
+            "Tamar Shor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P102",
+      "name": "Mature Pulley’s Product Ops",
+      "drives_krs": [
+        "KR1",
+        "KR3"
+      ],
+      "department": "Product",
+      "lead": "Tamar Shor",
+      "team_members": [],
+      "start_date": "2026-01-05",
+      "end_date": "2206-12-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_product_management_p102",
+          "name": "Product Management",
+          "project_id": "P102",
+          "department": "Product",
+          "member_ids": [
+            "Bachir Boumhaout",
+            "Tamar Shor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P103",
+      "name": "Sales enablement for new feature and product releases",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Revenue",
+      "lead": "Sam Sorbo",
+      "team_members": [],
+      "start_date": "2026-01-05",
+      "end_date": "2026-12-31",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_sales_aes_p103",
+          "name": "Sales - AEs",
+          "project_id": "P103",
+          "department": "Revenue",
+          "member_ids": [
+            "Akash Champaneri",
+            "Taylor Unger",
+            "Nolan Kelly",
+            "Jill Halquist",
+            "Christian Myers",
+            "Nick Larsen",
+            "Sam Sorbo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P104",
+      "name": "Enterprise sized deals and the sales training that comes with that",
+      "drives_krs": [
+        "KR2"
+      ],
+      "department": "Revenue",
+      "lead": "Sam Sorbo",
+      "team_members": [],
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-27",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_sales_aes_p104",
+          "name": "Sales - AEs",
+          "project_id": "P104",
+          "department": "Revenue",
+          "member_ids": [
+            "Akash Champaneri",
+            "Taylor Unger",
+            "Nolan Kelly",
+            "Jill Halquist",
+            "Christian Myers",
+            "Nick Larsen",
+            "Sam Sorbo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P105",
+      "name": "ICP identification for new product sales",
+      "drives_krs": [
+        "KR4"
+      ],
+      "department": "Revenue",
+      "lead": "Sam Sorbo",
+      "team_members": [],
+      "start_date": "2026-09-01",
+      "end_date": "2026-09-30",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_sales_aes_p105",
+          "name": "Sales - AEs",
+          "project_id": "P105",
+          "department": "Revenue",
+          "member_ids": [
+            "Akash Champaneri",
+            "Taylor Unger",
+            "Nolan Kelly",
+            "Jill Halquist",
+            "Christian Myers",
+            "Nick Larsen",
+            "Sam Sorbo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P106",
+      "name": "CSM ↔ AE engagement process on cross sell",
+      "drives_krs": [
+        "KR1"
+      ],
+      "department": "Revenue",
+      "lead": "Sam Sorbo",
+      "team_members": [],
+      "start_date": "2026-01-01",
+      "end_date": "2026-01-15",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_sales_aes_p106",
+          "name": "Sales - AEs",
+          "project_id": "P106",
+          "department": "Revenue",
+          "member_ids": [
+            "Akash Champaneri",
+            "Taylor Unger",
+            "Nolan Kelly",
+            "Jill Halquist",
+            "Christian Myers",
+            "Nick Larsen",
+            "Sam Sorbo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P107",
+      "name": "Create customer talk tracks for current and future crypto customers",
+      "drives_krs": [
+        "KR4"
+      ],
+      "department": "Revenue",
+      "lead": "Sam Sorbo",
+      "team_members": [],
+      "start_date": "2026-01-01",
+      "end_date": "2026-01-15",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_sales_aes_p107",
+          "name": "Sales - AEs",
+          "project_id": "P107",
+          "department": "Revenue",
+          "member_ids": [
+            "Akash Champaneri",
+            "Taylor Unger",
+            "Nolan Kelly",
+            "Jill Halquist",
+            "Christian Myers",
+            "Nick Larsen",
+            "Sam Sorbo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P108",
+      "name": "SE or FDE process building",
+      "drives_krs": [
+        "KR4"
+      ],
+      "department": "Revenue",
+      "lead": "Sam Sorbo",
+      "team_members": [],
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-28",
+      "status": "not_started",
+      "progress": 0,
+      "priority": "medium",
+      "description": "",
+      "teams": [
+        {
+          "id": "T_sales_aes_p108",
+          "name": "Sales - AEs",
+          "project_id": "P108",
+          "department": "Revenue",
+          "member_ids": [
+            "Akash Champaneri",
+            "Taylor Unger",
+            "Nolan Kelly",
+            "Jill Halquist",
+            "Christian Myers",
+            "Nick Larsen",
+            "Sam Sorbo"
+          ]
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "id": "R_owen_bitas",
+      "name": "Owen Bitas",
+      "role": "Senior Manager Product Marketing",
+      "department": "",
+      "skills": [
+        "Product Marketing"
+      ],
+      "availability": 1,
+      "utilization": 0,
+      "assigned_projects": [
+        "P48",
+        "P49",
+        "P50",
+        "P52",
+        "P53",
+        "P54",
+        "P55",
+        "P56",
+        "P57",
+        "P58",
+        "P59",
+        "P60",
+        "P62"
+      ],
+      "cost_center": "",
+      "reports_to": null
+    },
+    {
+      "id": "R_tony_doucet",
+      "name": "Tony Doucet",
+      "role": "Director Growth Marketing",
+      "department": "",
+      "skills": [
+        "Growth Marketing",
+        "Performance Marketing"
+      ],
+      "availability": 1,
+      "utilization": 0,
+      "assigned_projects": [
+        "P63"
+      ],
+      "cost_center": "",
+      "reports_to": null
+    },
+    {
+      "id": "R_jeremy_sullivan",
+      "name": "Jeremy Sullivan",
+      "role": "Growth Marketing Manager",
+      "department": "",
+      "skills": [
+        "Growth Marketing"
+      ],
+      "availability": 1,
+      "utilization": 0,
+      "assigned_projects": [],
+      "cost_center": "",
+      "reports_to": null
+    },
+    {
+      "id": "R_sydney_burla",
+      "name": "Sydney Burla",
+      "role": "Performance Marketing Manager",
+      "department": "",
+      "skills": [
+        "Performance Marketing"
+      ],
+      "availability": 1,
+      "utilization": 0,
+      "assigned_projects": [],
+      "cost_center": "",
+      "reports_to": null
+    },
+    {
+      "id": "R_tbh_pmm",
+      "name": "TBH-PMM",
+      "role": "Product Marketing Manager",
+      "department": "",
+      "skills": [
+        "Product Marketing"
+      ],
+      "availability": 1,
+      "utilization": 0,
+      "assigned_projects": [],
+      "cost_center": "",
+      "reports_to": null
+    },
+    {
+      "id": "R_sam_sorbo",
+      "name": "Sam Sorbo",
+      "role": "VP Revenue",
+      "department": "Revenue",
+      "skills": [],
+      "availability": 1,
+      "utilization": 0,
+      "assigned_projects": [
+        "P48",
+        "P49",
+        "P50",
+        "P51",
+        "P52",
+        "P53",
+        "P54",
+        "P55",
+        "P56",
+        "P57",
+        "P58",
+        "P59",
+        "P60",
+        "P61",
+        "P62",
+        "P63",
+        "P103",
+        "P104",
+        "P105",
+        "P106",
+        "P107",
+        "P108"
+      ],
+      "cost_center": "Revenue",
+      "reports_to": null
+    },
+    {
+      "id": "R_tami_tande",
+      "name": "Tami Tande",
+      "role": "VP Customer",
+      "department": "Customer",
+      "skills": [
+        "Equity Services"
+      ],
+      "availability": 1,
+      "utilization": 0,
+      "assigned_projects": [
+        "P1",
+        "P2",
+        "P3",
+        "P4",
+        "P5",
+        "P6",
+        "P7",
+        "P8",
+        "P9",
+        "P10"
+      ],
+      "cost_center": "Customer",
+      "reports_to": null
+    },
+    {
+      "id": "R_tamar_shor",
+      "name": "Tamar Shor",
+      "role": "VP Product",
+      "department": "Product",
+      "skills": [
+        "Product Management"
+      ],
+      "availability": 1,
+      "utilization": 0,
+      "assigned_projects": [
+        "P93",
+        "P94",
+        "P95",
+        "P96",
+        "P97",
+        "P98",
+        "P99",
+        "P100",
+        "P101",
+        "P102"
+      ],
+      "cost_center": "Product",
+      "reports_to": null
+    },
+    {
+      "id": "R_marvin_guerra",
+      "name": "Marvin Guerra",
+      "role": "Director Engineering",
+      "department": "Engineering",
+      "skills": [
+        "Engineering"
+      ],
+      "availability": 1,
+      "utilization": 0,
+      "assigned_projects": [
+        "P11",
+        "P12",
+        "P13",
+        "P14",
+        "P15",
+        "P16",
+        "P17",
+        "P18",
+        "P19",
+        "P20"
+      ],
+      "cost_center": "Engineering",
+      "reports_to": null
+    },
+    {
+      "id": "R_doris_zhou",
+      "name": "Doris Zhou",
+      "role": "Strategic Finance Director",
+      "department": "Finance",
+      "skills": [
+        "Finance"
+      ],
+      "availability": 1,
+      "utilization": 0,
+      "assigned_projects": [
+        "P21",
+        "P22",
+        "P23",
+        "P24",
+        "P25",
+        "P26",
+        "P27",
+        "P28",
+        "P29",
+        "P30",
+        "P31",
+        "P32",
+        "P33"
+      ],
+      "cost_center": "Finance",
+      "reports_to": null
+    },
+    {
+      "id": "R_ailis_burpee",
+      "name": "Ailis Burpee",
+      "role": "SVP Operations",
+      "department": "Operations",
+      "skills": [
+        "Operations"
+      ],
+      "availability": 1,
+      "utilization": 0,
+      "assigned_projects": [
+        "P34",
+        "P35",
+        "P36",
+        "P37",
+        "P38",
+        "P39",
+        "P40",
+        "P41",
+        "P42",
+        "P43",
+        "P44",
+        "P45",
+        "P46",
+        "P47",
+        "P64",
+        "P65",
+        "P66",
+        "P67",
+        "P68",
+        "P69",
+        "P70"
+      ],
+      "cost_center": "Operations",
+      "reports_to": null
+    },
+    {
+      "id": "R_bachir_boumhaout",
+      "name": "Bachir Boumhaout",
+      "role": "Principal PM",
+      "department": "Product",
+      "skills": [
+        "Product Management"
+      ],
+      "availability": 1,
+      "utilization": 0,
+      "assigned_projects": [],
+      "cost_center": "Product",
+      "reports_to": null
+    },
+    {
+      "id": "R_kshitij_gupta",
+      "name": "Kshitij Gupta",
+      "role": "Principal Product Designer",
+      "department": "Product",
+      "skills": [
+        "Product Management"
+      ],
+      "availability": 1,
+      "utilization": 0,
+      "assigned_projects": [],
+      "cost_center": "Product",
+      "reports_to": null
+    },
+    {
+      "id": "R_tbh_senior_content_strategist",
+      "name": "TBH-Senior Content Strategist",
+      "role": "Senior Content Strategist",
+      "department": "Revenue",
+      "skills": [
+        "Growth Marketing"
+      ],
+      "availability": 1,
+      "utilization": 0,
+      "assigned_projects": [
+        "P51"
+      ],
+      "cost_center": "Revenue",
+      "reports_to": null
+    },
+    {
+      "id": "R_tbh_lifecycle_marketing_manager",
+      "name": "TBH-Lifecycle Marketing Manager",
+      "role": "Lifecycle Marketing Manager",
+      "department": "Revenue",
+      "skills": [
+        "Growth Marketing"
+      ],
+      "availability": 1,
+      "utilization": 0,
+      "assigned_projects": [
+        "P61"
+      ],
+      "cost_center": "Revenue",
+      "reports_to": null
+    },
+    {
+      "id": "R_grant_oladipo",
+      "name": "Grant Oladipo",
+      "role": "President",
+      "department": "Executive Office",
+      "skills": [
+        "Strategic Planning"
+      ],
+      "availability": 1,
+      "utilization": 0,
+      "assigned_projects": [],
+      "cost_center": "Executive Office",
+      "reports_to": null
+    },
+    {
+      "id": "R_emily_pallin",
+      "name": "Emily Pallin",
+      "role": "Director People",
+      "department": "Operations",
+      "skills": [
+        "People Management"
+      ],
+      "availability": 1,
+      "utilization": 0,
+      "assigned_projects": [
+        "P64",
+        "P65",
+        "P66",
+        "P67",
+        "P68",
+        "P69",
+        "P70"
+      ],
+      "cost_center": "Operations",
+      "reports_to": null
+    },
+    {
+      "id": "R_ryan_husk",
+      "name": "Ryan Husk",
+      "role": "Senior Director Partnerships",
+      "department": "Revenue",
+      "skills": [
+        "Strategic Partnerships"
+      ],
+      "availability": 1,
+      "utilization": 0,
+      "assigned_projects": [
+        "P71",
+        "P72",
+        "P73",
+        "P74",
+        "P75",
+        "P76",
+        "P77",
+        "P78",
+        "P79",
+        "P80",
+        "P81",
+        "P82",
+        "P83",
+        "P84",
+        "P85",
+        "P86",
+        "P87",
+        "P88",
+        "P89",
+        "P90",
+        "P91",
+        "P92"
+      ],
+      "cost_center": "Revenue",
+      "reports_to": null
+    },
+    {
+      "id": "R_brandon_green",
+      "name": "Brandon Green",
+      "role": "Senior IT Engineer",
+      "department": "Operations",
+      "skills": [
+        "IT compliance and infrastructure"
+      ],
+      "availability": 1,
+      "utilization": 0,
+      "assigned_projects": [
+        "P34",
+        "P35",
+        "P36",
+        "P37",
+        "P38",
+        "P39",
+        "P40",
+        "P41",
+        "P42",
+        "P43"
+      ],
+      "cost_center": "Operations",
+      "reports_to": null
+    },
+    {
+      "id": "R_samantha_palmer",
+      "name": "Samantha Palmer",
+      "role": "Accounting Manager",
+      "department": "Finance",
+      "skills": [
+        "Financial Accounting"
+      ],
+      "availability": 1,
+      "utilization": 0,
+      "assigned_projects": [
+        "P21",
+        "P22",
+        "P23",
+        "P24",
+        "P25",
+        "P26",
+        "P27",
+        "P28",
+        "P29",
+        "P30",
+        "P31",
+        "P32",
+        "P33"
+      ],
+      "cost_center": "Finance",
+      "reports_to": null
+    },
+    {
+      "id": "R_tanaz_amiri",
+      "name": "Tanaz Amiri",
+      "role": "Partnerships Manager",
+      "department": "Revenue",
+      "skills": [
+        "Strategic Partnerships"
+      ],
+      "availability": 1,
+      "utilization": 0,
+      "assigned_projects": [
+        "P77",
+        "P78",
+        "P80",
+        "P82",
+        "P86",
+        "P89",
+        "P90"
+      ],
+      "cost_center": "Revenue",
+      "reports_to": null
+    },
+    {
+      "id": "R_future_cpm_hire",
+      "name": "[Future CPM hire]",
+      "role": "Channel Partner Manager",
+      "department": "Revenue",
+      "skills": [
+        "Strategic Partnerships"
+      ],
+      "availability": 1,
+      "utilization": 0,
+      "assigned_projects": [
+        "P73",
+        "P75",
+        "P76",
+        "P83",
+        "P85",
+        "P87"
+      ],
+      "cost_center": "Revenue",
+      "reports_to": null
+    },
+    {
+      "id": "R_akash_champaneri",
+      "name": "Akash Champaneri",
+      "role": "Account Executive",
+      "department": "Revenue",
+      "skills": [
+        "New Business"
+      ],
+      "availability": 1,
+      "utilization": 0,
+      "assigned_projects": [],
+      "cost_center": "Revenue",
+      "reports_to": null
+    },
+    {
+      "id": "R_taylor_unger",
+      "name": "Taylor Unger",
+      "role": "Account Executive",
+      "department": "Revenue",
+      "skills": [
+        "New Business"
+      ],
+      "availability": 1,
+      "utilization": 0,
+      "assigned_projects": [],
+      "cost_center": "Revenue",
+      "reports_to": null
+    },
+    {
+      "id": "R_nolan_kelly",
+      "name": "Nolan Kelly",
+      "role": "Account Executive",
+      "department": "Revenue",
+      "skills": [
+        "New Business"
+      ],
+      "availability": 1,
+      "utilization": 0,
+      "assigned_projects": [],
+      "cost_center": "Revenue",
+      "reports_to": null
+    },
+    {
+      "id": "R_jill_halquist",
+      "name": "Jill Halquist",
+      "role": "Account Executive",
+      "department": "Revenue",
+      "skills": [
+        "New Business"
+      ],
+      "availability": 1,
+      "utilization": 0,
+      "assigned_projects": [],
+      "cost_center": "Revenue",
+      "reports_to": null
+    },
+    {
+      "id": "R_christian_myers",
+      "name": "Christian Myers",
+      "role": "Account Executive",
+      "department": "Revenue",
+      "skills": [
+        "New Business"
+      ],
+      "availability": 1,
+      "utilization": 0,
+      "assigned_projects": [],
+      "cost_center": "Revenue",
+      "reports_to": null
+    },
+    {
+      "id": "R_nick_larsen",
+      "name": "Nick Larsen",
+      "role": "Account Executive",
+      "department": "Revenue",
+      "skills": [
+        "New Business"
+      ],
+      "availability": 1,
+      "utilization": 0,
+      "assigned_projects": [],
+      "cost_center": "Revenue",
+      "reports_to": null
+    },
+    {
+      "id": "R_morgan_munger",
+      "name": "Morgan Munger",
+      "role": "Director Professional Services",
+      "department": "Customer",
+      "skills": [
+        "Customer Retention"
+      ],
+      "availability": 1,
+      "utilization": 0,
+      "assigned_projects": [
+        "P10"
+      ],
+      "cost_center": "Customer",
+      "reports_to": null
+    },
+    {
+      "id": "R_osha_kondori",
+      "name": "Osha Kondori",
+      "role": "Head of Customer Success",
+      "department": "Customer",
+      "skills": [
+        "Customer Retention"
+      ],
+      "availability": 1,
+      "utilization": 0,
+      "assigned_projects": [
+        "P1",
+        "P10"
+      ],
+      "cost_center": "Customer",
+      "reports_to": null
+    },
+    {
+      "id": "R_aaron_yeung",
+      "name": "Aaron Yeung",
+      "role": "Director Professional Services",
+      "department": "Customer",
+      "skills": [
+        "Customer Retention"
+      ],
+      "availability": 1,
+      "utilization": 0,
+      "assigned_projects": [
+        "P5",
+        "P6"
+      ],
+      "cost_center": "Customer",
+      "reports_to": null
+    },
+    {
+      "id": "R_aseem_goel",
+      "name": "Aseem Goel",
+      "role": "Senior Manager Expansion",
+      "department": "Customer",
+      "skills": [
+        "Business Expansion"
+      ],
+      "availability": 1,
+      "utilization": 0,
+      "assigned_projects": [
+        "P4",
+        "P7"
+      ],
+      "cost_center": "Customer",
+      "reports_to": null
+    },
+    {
+      "id": "R_yin_wu",
+      "name": "Yin Wu",
+      "role": "CEO",
+      "department": "Executive Office",
+      "skills": [
+        "Strategic Planning"
+      ],
+      "availability": 1,
+      "utilization": 0,
+      "assigned_projects": [],
+      "cost_center": "Executive Office",
+      "reports_to": null
+    },
+    {
+      "id": "R_shannon_howell",
+      "name": "Shannon Howell",
+      "role": "Customer Success Manager",
+      "department": "Customer",
+      "skills": [
+        "Customer Retention"
+      ],
+      "availability": 1,
+      "utilization": 0,
+      "assigned_projects": [],
+      "cost_center": "Customer",
+      "reports_to": null
+    },
+    {
+      "id": "R_lee_singer",
+      "name": "Lee Singer",
+      "role": "Customer Success Manager",
+      "department": "Customer",
+      "skills": [
+        "Customer Retention"
+      ],
+      "availability": 1,
+      "utilization": 0,
+      "assigned_projects": [],
+      "cost_center": "Customer",
+      "reports_to": null
+    }
+  ],
+  "teams": [
+    {
+      "id": "T_marketing_pmm",
+      "name": "Marketing - PMM",
+      "project_id": "",
+      "department": "",
+      "member_ids": [
+        "R_owen_bitas",
+        "R_tbh_pmm",
+        "R_sam_sorbo"
+      ]
+    },
+    {
+      "id": "T_marketing_growth_marketing",
+      "name": "Marketing - Growth Marketing",
+      "project_id": "",
+      "department": "",
+      "member_ids": [
+        "R_tony_doucet",
+        "R_jeremy_sullivan",
+        "R_sydney_burla",
+        "R_tbh_senior_content_strategist",
+        "R_tbh_lifecycle_marketing_manager",
+        "R_sam_sorbo"
+      ]
+    },
+    {
+      "id": "T_product_management",
+      "name": "Product Management",
+      "project_id": "",
+      "department": "",
+      "member_ids": [
+        "R_bachir_boumhaout",
+        "R_tamar_shor"
+      ]
+    },
+    {
+      "id": "T_ai2_sro",
+      "name": "AI2 (SRO)",
+      "project_id": "",
+      "department": "",
+      "member_ids": [
+        "R_bachir_boumhaout",
+        "R_kshitij_gupta",
+        "R_marvin_guerra",
+        "R_tamar_shor"
+      ]
+    },
+    {
+      "id": "T_ai1_equity_intelligence",
+      "name": "AI1 (Equity Intelligence)",
+      "project_id": "",
+      "department": "",
+      "member_ids": [
+        "R_bachir_boumhaout",
+        "R_marvin_guerra",
+        "R_tamar_shor"
+      ]
+    },
+    {
+      "id": "T_product_design",
+      "name": "Product Design",
+      "project_id": "",
+      "department": "",
+      "member_ids": [
+        "R_kshitij_gupta",
+        "R_tamar_shor"
+      ]
+    },
+    {
+      "id": "T_partnerships",
+      "name": "Partnerships",
+      "project_id": "",
+      "department": "",
+      "member_ids": [
+        "R_future_cpm_hire",
+        "R_tanaz_amiri",
+        "R_ryan_husk"
+      ]
+    },
+    {
+      "id": "T_sales_aes",
+      "name": "Sales - AEs",
+      "project_id": "",
+      "department": "",
+      "member_ids": [
+        "R_akash_champaneri",
+        "R_taylor_unger",
+        "R_nolan_kelly",
+        "R_jill_halquist",
+        "R_christian_myers",
+        "R_nick_larsen",
+        "R_sam_sorbo"
+      ]
+    },
+    {
+      "id": "T_strategic_finance",
+      "name": "Strategic Finance",
+      "project_id": "",
+      "department": "",
+      "member_ids": [
+        "R_doris_zhou"
+      ]
+    },
+    {
+      "id": "T_accounting",
+      "name": "Accounting",
+      "project_id": "",
+      "department": "",
+      "member_ids": [
+        "R_samantha_palmer"
+      ]
+    },
+    {
+      "id": "T_c_suite",
+      "name": "C-Suite",
+      "project_id": "",
+      "department": "",
+      "member_ids": [
+        "R_grant_oladipo",
+        "R_yin_wu"
+      ]
+    },
+    {
+      "id": "T_people",
+      "name": "People",
+      "project_id": "",
+      "department": "",
+      "member_ids": [
+        "R_emily_pallin",
+        "R_ailis_burpee"
+      ]
+    },
+    {
+      "id": "T_platform",
+      "name": "Platform",
+      "project_id": "",
+      "department": "",
+      "member_ids": [
+        "R_marvin_guerra",
+        "R_tamar_shor"
+      ]
+    },
+    {
+      "id": "T_onboarding",
+      "name": "Onboarding",
+      "project_id": "",
+      "department": "",
+      "member_ids": [
+        "R_tami_tande"
+      ]
+    },
+    {
+      "id": "T_customer_customer_success",
+      "name": "Customer -Customer Success",
+      "project_id": "",
+      "department": "",
+      "member_ids": [
+        "R_tami_tande",
+        "R_osha_kondori",
+        "R_shannon_howell",
+        "R_lee_singer"
+      ]
+    },
+    {
+      "id": "T_customer_customer_support",
+      "name": "Customer - Customer Support",
+      "project_id": "",
+      "department": "",
+      "member_ids": [
+        "R_tami_tande",
+        "R_morgan_munger"
+      ]
+    },
+    {
+      "id": "T_customer_enablement",
+      "name": "Customer - Enablement",
+      "project_id": "",
+      "department": "",
+      "member_ids": [
+        "R_tami_tande",
+        "R_aaron_yeung"
+      ]
+    },
+    {
+      "id": "T_customer_expansion",
+      "name": "Customer - Expansion",
+      "project_id": "",
+      "department": "",
+      "member_ids": [
+        "R_tami_tande",
+        "R_aseem_goel"
+      ]
+    },
+    {
+      "id": "T_customer_existing_services",
+      "name": "Customer - Existing services",
+      "project_id": "",
+      "department": "",
+      "member_ids": [
+        "R_tami_tande",
+        "R_aaron_yeung"
+      ]
+    },
+    {
+      "id": "T_it",
+      "name": "IT",
+      "project_id": "",
+      "department": "",
+      "member_ids": [
+        "R_ailis_burpee",
+        "R_brandon_green"
+      ]
+    },
+    {
+      "id": "T_legal",
+      "name": "Legal",
+      "project_id": "",
+      "department": "",
+      "member_ids": [
+        "R_ailis_burpee"
+      ]
+    }
+  ],
+  "dependencies": []
+}
