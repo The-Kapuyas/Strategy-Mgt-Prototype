@@ -2,7 +2,7 @@
 export const APP_CONFIG = {
   TOTAL_STEPS: 4, // Onboarding steps (0-3) + Workspace (4)
   COMPANY_NAME_DEFAULT: '',
-  APP_TITLE: 'Pulley Strategy Workspace',
+  APP_TITLE: 'Strategy Workspace',
 } as const;
 
 // API Configuration

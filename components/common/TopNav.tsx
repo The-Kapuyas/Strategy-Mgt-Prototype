@@ -9,7 +9,7 @@ interface TopNavProps {
   onNavigate: (page: TopLevelPage) => void;
 }
 
-const PulleyLogo = () => (
+const AppLogo = () => (
   <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
     <circle cx="12" cy="12" r="10" stroke="#4f46e5" strokeWidth="2" />
     <path d="M12 8V12L15 15" stroke="#4f46e5" strokeWidth="2" strokeLinecap="round" />
@@ -26,7 +26,7 @@ const TopNav: React.FC<TopNavProps> = ({ activePage, onNavigate }) => {
     <nav className="w-full bg-white border-b border-slate-200 px-6 flex items-center justify-between h-14 sticky top-0 z-50">
       {/* Left: Logo */}
       <div className="flex items-center gap-2">
-        <PulleyLogo />
+        <AppLogo />
         <span className="text-lg font-bold text-slate-900">{APP_CONFIG.APP_TITLE}</span>
       </div>
 

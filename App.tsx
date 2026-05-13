@@ -1,5 +1,4 @@
-import React, { useState, useCallback, useMemo } from 'react';
-import LoginPage from './components/LoginPage';
+import React, { useState, useCallback, useMemo, useEffect } from 'react';
 import OnboardingStepper from './components/OnboardingStepper';
 import WelcomeStep from './components/WelcomeStep';
 import ObjectivesStep from './components/ObjectivesStep';
@@ -47,8 +46,7 @@ const App: React.FC = () => {
     []
   );
 
-  const [isLoggedIn, setIsLoggedIn] = useState(false);
-  const [currentStep, setCurrentStep] = useState(0);
+  const [currentStep, setCurrentStep] = useState(4);
   const [companyName, setCompanyName] = useState(APP_CONFIG.COMPANY_NAME_DEFAULT);
   const [companyContext, setCompanyContext] = useState<CompanyContext>(initialCompanyContext);
   const [objectives, setObjectives] = useState<Objective[]>(initialObjectives);
@@ -92,6 +90,10 @@ const App: React.FC = () => {
       return { error: 'Failed to parse blueprint. Please check the file format.' };
     }
   }, []);
+
+  useEffect(() => {
+    handleLoadBlueprint(demoBlueprintJson as any);
+  }, [handleLoadBlueprint]);
 
   const nextStep = useCallback(() => {
     if (currentStep < APP_CONFIG.TOTAL_STEPS) {
@@ -183,7 +185,7 @@ const App: React.FC = () => {
     }
   };
 
-  const PulleyLogo = () => (
+  const AppLogo = () => (
     <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" className="mr-2">
       <circle cx="12" cy="12" r="10" stroke="#4f46e5" strokeWidth="2" />
       <path d="M12 8V12L15 15" stroke="#4f46e5" strokeWidth="2" strokeLinecap="round" />
@@ -200,18 +202,6 @@ const App: React.FC = () => {
         onDecline={() => { window.location.href = window.location.origin; }}
       />
     );
-  }
-
-  const handleLogin = useCallback(() => {
-    setIsLoggedIn(true);
-    // Auto-load demo blueprint and skip to workspace
-    handleLoadBlueprint(demoBlueprintJson as any);
-    setCurrentStep(4);
-  }, [handleLoadBlueprint]);
-
-  // Show login page if not authenticated
-  if (!isLoggedIn) {
-    return <LoginPage onLogin={handleLogin} />;
   }
 
   // Workspace layout with TopNav (step 4)
@@ -278,7 +268,7 @@ const App: React.FC = () => {
     <div className="min-h-screen bg-slate-50 text-slate-800 flex flex-col items-center p-4 sm:p-6 lg:p-8">
       <header className="w-full mb-8 flex items-center justify-between">
         <div className="flex items-center">
-          <PulleyLogo />
+          <AppLogo />
           <h1 className="text-xl font-bold text-slate-900">{APP_CONFIG.APP_TITLE}</h1>
         </div>
         <ProfileMenu />

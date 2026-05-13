@@ -9,7 +9,7 @@ interface InviteAcceptPageProps {
   onDecline: () => void;
 }
 
-const PulleyLogo = () => (
+const AppLogo = () => (
   <svg width="48" height="48" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
     <circle cx="12" cy="12" r="10" stroke="#4f46e5" strokeWidth="2" />
     <path d="M12 8V12L15 15" stroke="#4f46e5" strokeWidth="2" strokeLinecap="round" />
@@ -138,7 +138,7 @@ const InviteAcceptPage: React.FC<InviteAcceptPageProps> = ({
         return (
           <div className="text-center">
             <div className="flex justify-center mb-4">
-              <PulleyLogo />
+              <AppLogo />
             </div>
             <h1 className="text-2xl font-bold text-slate-900 mb-2">You've been invited</h1>
             <p className="text-slate-600 mb-1">
@@ -147,7 +147,7 @@ const InviteAcceptPage: React.FC<InviteAcceptPageProps> = ({
             <p className="text-xl font-semibold text-indigo-700 mb-1">
               {invitation?.companyName || 'a workspace'}
             </p>
-            <p className="text-slate-600 mb-6">on Pulley Strategy Workspace</p>
+            <p className="text-slate-600 mb-6">on Strategy Workspace</p>
 
             <div className="bg-slate-50 rounded-xl px-4 py-3 text-left space-y-2 mb-6">
               <div className="flex items-center gap-2 text-sm">
